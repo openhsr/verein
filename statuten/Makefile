@@ -1,5 +1,6 @@
 SHELL=bash
 TARGET=statuten.pdf
+SRC=statuten.tex
 LL=latexmk -pdf
 CLEAN=latexmk -C
 
