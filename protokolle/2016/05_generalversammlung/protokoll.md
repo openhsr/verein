@@ -25,28 +25,24 @@ Abnahme Traktandenliste durch Plenum: ??
 
 ### Jahresabschluss
 
-|-----------------|-------------|
-| Budgetpunkt     | Budget 2015 |
-|-----------------|-------------|
-| **Einnahmen**   |             |
-| Mitgliederbeiträge | 3 CHF    |
-| ** Ausgaben**   | keine       |
-|-----------------|-------------|
+Budgetpunkt     | Budget 2015
+----------------|------------
+**Einnahmen**   |
+Mitgliederbeiträge | 3 CHF
+** Ausgaben**   | keine
 
 
 ### Budget 2016
 
 Vermögen: z.Z. unklar, wird vom neuen Vorstand abgeklärt, siehe Traktandum zu Vereinskonto.
 
-|-----------------|-------------|
-| Budgetpunkt     | Budget 2016 |
-|-----------------|-------------|
-| **Einnahmen**   |             |
-| Mitgliederbeiträge | 6 CHF    |
-| ** Ausgaben**   |             |
-| Rebranding      | 12CHF       |
-| Druck Flyer     | ??CHF       |
-|-----------------|-------------|
+Budgetpunkt     | Budget 2016
+----------------|------------
+**Einnahmen**   |
+Mitgliederbeiträge | 6 CHF
+** Ausgaben**   |
+Rebranding      | 12CHF
+Druck Flyer     | ??CHF
 
 ### Änderungen Mitglieder
 
