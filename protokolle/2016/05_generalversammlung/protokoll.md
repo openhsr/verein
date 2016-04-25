@@ -29,7 +29,7 @@ Budgetpunkt     | Budget 2015
 ----------------|------------
 **Einnahmen**   |
 Mitgliederbeiträge | 3 CHF
-** Ausgaben**   | keine
+**Ausgaben**   | keine
 
 
 ### Budget 2016
@@ -40,7 +40,7 @@ Budgetpunkt     | Budget 2016
 ----------------|------------
 **Einnahmen**   |
 Mitgliederbeiträge | 6 CHF
-** Ausgaben**   |
+**Ausgaben**   |
 Rebranding      | 12CHF
 Druck Flyer     | ??CHF
 
