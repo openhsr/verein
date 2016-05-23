@@ -2,17 +2,22 @@
 
 ## Anwesend
 
-- NAME
+- Fabian Hauser 
+- Raphael Zimmermann
+- Michael Wieland
+- Nico Vinzens
+- Oli Dias
+- Muriele Trentini (entschuldigt)
 
-Total Stimmenzahl: N Stimmen 
+Total Stimmenzahl: 6 Stimmen 
 
 ## Ort und Zeit
 
 Eröffnung der GV durch den Präsidenten.
 
-**Ort:** Rapperswil
-**Tag:** 2016-05-23
-**Zeit:** HH:MM bis HH:MM
+**Ort:** Rapperswil  
+**Tag:** 2016-05-23  
+**Zeit:** 15:45 bis 17:20
 
 ## Traktanden
 
@@ -21,7 +26,8 @@ Als Protokollführer wurde einstimmig Oli Dias gewählt.
 
 ### Abnahme Traktandenliste 
 
-Abnahme Traktandenliste durch Plenum: ??
+Abnahme Traktandenliste durch Plenum:  
+-	 keine Traktanden durch Plenum
 
 ### Jahresabschluss
 
@@ -46,6 +52,8 @@ Domain          | 12 CHF
 Druck Flyer     | 50 CHF
 Anlässe         | 38 CHF
 
+*Budget wurde einstimmig angenommen.*
+
 ### Vorstandänderungen
 
 Wahl neuer Vorstand, folgende Personen wurden einstimmig für die aufgelisteten Funktionen gewählt:
@@ -57,6 +65,8 @@ Vize-Präsident | Raphael Zimmermann
 Kassierin      | Murièle Trentini
 Aktuar         | Oli Dias
 Beisitz (Webseite) | Michael Wieland
+
+*Die Wahl des neuen Vorstandes wurde einstimmig angenommen.*
 
 ### Änderungen Mitglieder
 
@@ -90,6 +100,7 @@ index 377dd30..4f16e7c 100644
    \li Der Verein unterstützt die Ziele und Ideale des VSHSR. 
  \lo
 ```
+*Die Neuausrichtung des Vereins wurde einstimmig angenommen.*
 
 ### Änderung Mitgliederbeitrag (Statutenänderung)
 
@@ -106,11 +117,13 @@ index 377dd30..5a9b5e9 100644
        Vereinsjahres nicht bezahlt, erlischt die Mitgliedschaft automatisch.
        \li Vom Verein ausgeschlossene oder ausgetretene Mitglieder haben keinen
        Anspruch auf Rückerstattungen jeglicher Art.
-+      \li Beim Austritt aus der HSR erlischt die Mitgliedschaft automatisch.
++      \li Beim Austritt aus der HSR erlischt die Mitgliedschaft für Mitglieder ohne Vorstandsfunktion automatisch.
      \lo
    \li{Ausschluss von Mitgliedern}
      \ol
 ```
+
+*Die Statutenänderung wurde einstimmig angenommen.*
 
 ### Roadmap bis Begin HS16, Bildung AGs
 
@@ -123,13 +136,25 @@ index 377dd30..5a9b5e9 100644
   Logo könnte auf der Webseite und Flyer plaziert werden; evtl. eine interessante Marketing/Rekrutierungs-Möglichkeit für Firmen.
 - Vereinsvorstellung via VSHSR. Abklären betr. zusammenarbeit mit Coredump (Hackerspace Rapperswil).
 
+*Michael Wieland hat sich als Ansprechsperson für eine provisorische Gestaltung eines Flyers gemeldet.*  
+*Raphael Zimmermann hat sich als Ansprechsperson für das Sammelbecken gemeldet.*  
+*Muriele Trentini und Fabian Hauser haben sich als Ansprechsperson für den Finanzierungspunkt gemeldet.*  
+*Oli Dias hat sich als Ansprechsperson für die Vereinsvorstellung gemeldet.*  
+*Re-Branding: Es wurde einstimmig entschieden, den Verein auf ```open\HSR``` umzubenennen. Fabian Hauser hat sich als Ansprechsperson für die anfallenden Aufgaben bezüglich Re-Branding gemeldet.*  
+
 ### Übernahme des Vereinkontos
 
 Der Stand des Vereinkontos ist momentan unklar, da dies nicht auf den letzten Präsidenten übertragen wurde.  
 Vermutlich ist das Konto bei der Bank Linth und hat ca. CHF 200.- guthaben, eine Übernahme muss mit der Bank-Linth abgeklärt werden.
 
+*Muriele Trentini hat sich in vorheriger Absprache als Ansprechsperson für das Abklären des Guthabens gemeldet.*
+
 ## Diverses
 
 - Sperrung master-Branch Website: Nur noch Pull-Requests möglich.
 
+*Es wurde einstimmig entschieden, dass für das Mergen von zukünftigen Pushes der Vorstand verantwortlich ist.*
+
 ## Schliessung der Generalversammlung
+
+*Die GV wurde ohne weitere Beträge von Präsident Fabian Hauser geschlossen.*
