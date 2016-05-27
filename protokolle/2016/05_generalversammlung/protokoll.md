@@ -7,9 +7,9 @@
 - Michael Wieland
 - Nico Vinzens
 - Oli Dias
-- Muriele Trentini (entschuldigt)
+- Muriele Trentini (abwesend)
 
-Total Stimmenzahl: 6 Stimmen 
+Total Stimmenzahl: 5 Stimmen 
 
 ## Ort und Zeit
 
@@ -19,15 +19,16 @@ Eröffnung der GV durch den Präsidenten.
 **Tag:** 2016-05-23  
 **Zeit:** 15:45 bis 17:20
 
-## Traktanden
+## Traktanden	
+
+*Bemerkung: Der ehemalige Präsident Danilo Bargen hat die Vollmacht über die Leitung der GV an Fabian Hauser übergeben.*
 
 ### Wahl Protokollführer und Stimmenzähler
 Als Protokollführer wurde einstimmig Oli Dias gewählt.
 
 ### Abnahme Traktandenliste 
 
-Abnahme Traktandenliste durch Plenum:  
--	 keine Traktanden durch Plenum
+Abnahme Traktandenliste durch Plenum: Ja
 
 ### Jahresabschluss
 
@@ -153,8 +154,14 @@ Vermutlich ist das Konto bei der Bank Linth und hat ca. CHF 200.- guthaben, eine
 
 - Sperrung master-Branch Website: Nur noch Pull-Requests möglich.
 
-*Es wurde einstimmig entschieden, dass für das Mergen von zukünftigen Pushes der Vorstand verantwortlich ist.*
+*Es wurde einstimmig entschieden, dass für das Mergen von zukünftigen Pullrequests der Vorstand verantwortlich ist.*
 
 ## Schliessung der Generalversammlung
 
 *Die GV wurde ohne weitere Beträge von Präsident Fabian Hauser geschlossen.*
+
+
+Präsident | Aktuar
+------------|----------
+Danilo Bargen | Raphael Nestler
+&nbsp; | &nbsp;
