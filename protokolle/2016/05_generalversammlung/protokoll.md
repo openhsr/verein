@@ -2,14 +2,16 @@
 
 ## Anwesend
 
+- Danilo Bargen
+- Raphael Nestler
 - Fabian Hauser 
 - Raphael Zimmermann
 - Michael Wieland
 - Nico Vinzens
 - Oli Dias
-- Muriele Trentini (abwesend)
+- Muriele Trentini
 
-Total Stimmenzahl: 5 Stimmen 
+Total Stimmenzahl: 8 Stimmen 
 
 ## Ort und Zeit
 
@@ -20,8 +22,6 @@ Eröffnung der GV durch den Präsidenten.
 **Zeit:** 15:45 bis 17:20
 
 ## Traktanden	
-
-*Bemerkung: Der ehemalige Präsident Danilo Bargen hat die Vollmacht über die Leitung der GV an Fabian Hauser übergeben.*
 
 ### Wahl Protokollführer und Stimmenzähler
 Als Protokollführer wurde einstimmig Oli Dias gewählt.
@@ -158,7 +158,7 @@ Vermutlich ist das Konto bei der Bank Linth und hat ca. CHF 200.- guthaben, eine
 
 ## Schliessung der Generalversammlung
 
-*Die GV wurde ohne weitere Beträge von Präsident Fabian Hauser geschlossen.*
+*Die GV wurde ohne weitere Beträge vom Präsidenten geschlossen.*
 
 
 Präsident | Aktuar
