@@ -4,7 +4,7 @@ Die Mitglieder-Datenbank ist mit einem symmetrischen GPG-Passwort verschlüsselt
 
 ```bash
 # Entschlüsseln
-gpg2 --decrypt memberdb.sqlite.gpg
+gpg2 --output memberdb.sqlite --decrypt memberdb.sqlite.gpg
 
 # Bearbeiten
 sqlite memberdb.sqlite
