@@ -1,0 +1,20 @@
+email:
+    template: template.html
+
+sender:
+    host: asmtp.mail.hostpoint.ch
+    ssl: false
+    starttls: true
+    user: info@openhsr.ch
+    sender: open\\HSR Newsletter <info@openhsr.ch>
+
+source:
+    provider: sqlite
+    url: ../verein/mitglieder/memberdb.sqlite
+    query: select * from view_registered_newsletter;
+
+draft:
+    first_name: Maria
+    last_name: Muster
+    gener: w
+    email: info@openhsr.ch
