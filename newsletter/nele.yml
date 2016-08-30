@@ -10,7 +10,7 @@ sender:
 
 source:
     provider: sqlite
-    url: ../verein/mitglieder/memberdb.sqlite
+    url: ../mitglieder/memberdb.sqlite
     query: select * from view_registered_newsletter;
 
 draft:
