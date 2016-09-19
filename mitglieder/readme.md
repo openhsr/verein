@@ -12,3 +12,11 @@ sqlite memberdb.sqlite
 # Verschlüsseln
 gpg2 --symmetric memberdb.sqlite
 ```
+
+## Aktionen
+
+### Neues Mitglied hinzufügen
+```sql
+INSERT INTO members (first_name,last_name,email,gender,github,active) 
+  VALUES ("Vorname", "Nachname", "die@mail", "m/w", "GITHUBUSER", 1);
+```
