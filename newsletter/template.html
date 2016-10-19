@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{subject}}</title>
+        <style media="screen">
+            body {
+                font-family: 'Open Sans', sans-serif;
+                font-size: 15px;
+                background-color: rgb(248, 248, 248);
+                width: 100%;
+                max-width: 700px;
+                margin: 0 auto 0 auto;
+                padding: 10px;
+            }
+            header img {
+                display: block;
+                margin: 0 auto 0 auto;
+            }
+            main {
+                clear: both;
+            }
+            h1, h2, h3, h4, h5, a, a:visited {
+                color: #0064A3;
+            }
+            h1 {
+                font-size: 30px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <img alt="Open\HSR Logo" src="https://www.openhsr.ch/assets/logo.png" />
+        </header>
+        <main>
+            {{content}}
+        </main>
+
+    </body>
+</html>
