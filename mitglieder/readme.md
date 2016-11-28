@@ -2,6 +2,11 @@ Die Mitglieder-Datenbank ist mit einem symmetrischen GPG-Passwort verschlüsselt
 
 ## Benutzung:
 
+Mit dem skript:
+```bash
+./add_member.py
+```
+
 ```bash
 # Entschlüsseln
 gpg2 --output memberdb.sqlite --decrypt memberdb.sqlite.gpg
@@ -17,6 +22,6 @@ gpg2 --symmetric memberdb.sqlite
 
 ### Neues Mitglied hinzufügen
 ```sql
-INSERT INTO members (first_name,last_name,email,gender,github,active) 
+INSERT INTO members (first_name,last_name,email,gender,github,active)
   VALUES ("Vorname", "Nachname", "die@mail", "m/w", "GITHUBUSER", 1);
 ```
