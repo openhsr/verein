@@ -2,7 +2,7 @@ Die Mitglieder-Datenbank ist mit einem symmetrischen GPG-Passwort verschlüsselt
 
 ## Benutzung:
 
-Mit dem skript:
+Mit dem skript (Python >= 3.5!)
 ```bash
 ./add_member.py
 ```
