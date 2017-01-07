@@ -12,7 +12,7 @@ Das Ziel dieses Codesprints ist es, unsere HSR Mapper Alternative [**open\HSR Co
 Solltest du noch nicht mit einem dieser Projekte vertraut sein, dann ist der Codesprint eine gute Möglichkeit, die Projekte und Köpfe dahinter kennenzulernen. Wir würden uns freuen, wenn auch du dabei bist!
 Als Dankeschön für deine Mithilfe übernimmt der Verein das Mittagessen.
 
-Übrigens - am Freitag nach dem Codesprint (17.02.17) findet der [Swiss Python Summit](https://www.python-summit.ch/) statt. Der Summit sucht noch Helfer (T-Shirt inklusive 😉).
+Übrigens - am Freitag nach dem Codesprint (17.02.17) findet der [Swiss Python Summit](http://www.python-summit.ch/) statt. Der Summit sucht noch Helfer (T-Shirt inklusive 😉).
 
 Bei Fragen stehen wir dir gerne zur Verfügung.
 
