@@ -14,7 +14,7 @@
 6. Send a draft to yourself
 
     ```bash
-    nele draft my@email.com archiv/<file>.md
+    nele draft archiv/<file>.md
     ```
 
 7. Send an email to EVERYONE (!!!)
