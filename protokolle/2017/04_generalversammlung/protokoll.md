@@ -68,10 +68,10 @@ Wahl neuer Vorstand
 
 Funktion  | Name
 ----------|---------------
-Präsident | 
-Vize-Präsident | 
-Kassier   | 
-Aktuar    | 
+Präsident | Dennis Ligtenberg
+Vize-Präsident | Matteo Kamm
+Kassier | Murièle Trentini
+Beistand | Aaron Meier
 
 
 ### Änderungen Mitglieder
