@@ -2,22 +2,23 @@
 
 ## Anwesend
 
-Total Stimmenzahl: ?? Stimmen 
+Total Stimmenzahl: 18 Stimmen 
 
 ## Ort und Zeit
 
-Eröffnung der GV durch den Präsidenten.
+*Eröffnung der GV durch den Präsidenten Fabian Hauser.*
 
 **Ort:** Rapperswil  
 **Tag:** 2016-04-25
-**Zeit:** 17:00 bis ??
+**Zeit:** 17:05 bis 17:35
 
 ## Traktanden
 
 ### Wahl Protokollführer und Stimmenzähler
-
+*Als Protkollführer wurde einstimmig Oli Dias gewählt*
+*Als Stimmenzähler wurde einstimmig Nico Vinzens gewählt*
 ### Abnahme Traktandenliste 
-
+*Traktandenliste gemäss Verschlag wurden angemommen*
 ### Jahresabschluss
 
 Budgetpunkt     | 2016 soll | 2016 ist |
@@ -33,15 +34,18 @@ Sticker         | -         | 93.30 CHF
 ----------------|-----------|--------- |
 Summe           | ?         | 881.30 
 
+*Jahresabschluss von Fabian Hauser erläutert.*
+*Frage von Vorstandsmitglied: GV noch nicht miteinberechnet. Gemäss Antwort kommen diese jedoch ins nächste Vereinsjahr.*
 #### Sponsoring
 
 - **amétiq banking, amétiq connect, amétiq medical**
   Je Logo in Flyer und auf Webseite
 - **Calandacomp**
-  Logo in Flyer und auf Webseite
+  Logo in auf Webseite
 - **Nine**
   Logo auf Webseite, finanzierung der GV Verpflegung.
 
+*Vorstand wurde einstimmig entlastet.*
 
 ### Budget 2017
 
@@ -61,7 +65,7 @@ Summe           | 1069.30   |
 
 Die Nine Sponsort 200.- für die GV 2017.
 Die restlichen Sponsoringbeiträge im nächsten Vereinsjahr sind noch *nicht* vertraglich vereinbart.
-
+*Budget wurde einstimmig angenommen.* 
 ### Vorstandänderungen
 
 Wahl neuer Vorstand
@@ -73,6 +77,7 @@ Vize-Präsident | Matteo Kamm
 Kassier | Murièle Trentini
 Beistand | Aaron Meier
 
+*Neuer Vorstand wurde einstimmig angenommen.*
 
 ### Änderungen Mitglieder
 
@@ -94,7 +99,7 @@ index 7b6ce48..d961264 100644
    \li Der Verein haftet allein mit dem Vereinsvermögen.
  \lo
 ```
-
+*Änderungen wurden einstimmig angenommen.*
 
 ### Aktuar nicht mehr zwingend aus Statuten vorschreiben
 
@@ -116,6 +121,7 @@ index 7b6ce48..0c0f352 100644
        die dieselben Rechte und Pflichten wie der restliche Vorstand haben.
        \li bestimmt seine Aufgaben und Ämterverteilung selbst, sofern nicht von
 ```
+*Änderungen wurden einstimmig angenommen.*
 
 ### Rückblick 2016
 
@@ -147,18 +153,23 @@ index 7b6ce48..0c0f352 100644
 - Teilnahme an Coredump Lightning Talks
 - Git/GitHub Workshop für HSR Studenten - Danke an Raphi!
 
+*Punkte wurden erklärt und ohne Einwände besprochen.* 
+
 ### open\HSR Connect
 
 ## Diverses
 
 - Umfrage
-- Swiss PGDay sucht noch freiwillige am 30.06.12 -> Bitte bei Stefan Keller melden
+- Swiss PGDay sucht noch Freiwillige am 30.06.17 -> Bitte bei Stefan Keller melden
+*Es kamen keine Beiträge von der Umfrage*
+*Datum wurde von 30.06.12 auf 30.06.17 korrigiert.*
+
 
 ## Schliessung der Generalversammlung
-
-
 
 Präsident | Aktuar
 ------------|----------
 Fabian Hauser | Oli Dias
 &nbsp; | &nbsp;
+
+*GV wurde von Präsidenten geschlossen*
