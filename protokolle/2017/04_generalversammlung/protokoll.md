@@ -45,8 +45,6 @@ Summe           | ?         | 881.30
 
 ### Budget 2017
 
-Vermögen: #TODO: ein-ausgaben#
-
 Budgetpunkt     | Budget 2017
 ----------------|------------
 **Einnahmen**   |
@@ -124,7 +122,7 @@ index 7b6ce48..0c0f352 100644
 - Neu 45 Mitglieder
 - Webseite wurde erfolgreich gelauncht. Vielen Dank an Michi für das tolle Design!
 - AG: Flyer / Starting Guide wurde umgesetzt. Danke an Nikola für die Umsetzung.
-- Wir haben neu Sticker!
+- Wir haben neu Stickers!
 - AG: open\HSR Connect:
   - Lauffähiges Beta-Release
   - Packages für Ubuntu und Fedora
@@ -140,7 +138,7 @@ index 7b6ce48..0c0f352 100644
   - ...?
 - open\HSR Treffpunkt: Durchführung 1x pro Woche im Herbstsemester 2016
   - Mässiges interesse, meistens 2-3 Teilnehmer
-  - Evtl. war evtl. schlechter Zeitpunkt für Teilzeitstudenten
+  - Evtl. schlechter Zeitpunkt für Teilzeitstudenten
 - Wir haben unseren Verein erfolgreich an der Vereinsvorstellung vertreten
 - Twitter Account: 42 Follower ☺️ - Vielen Dank an Robin für die tolle Arbeit!
 - 2 Newsletter mit News versendet
@@ -153,6 +151,7 @@ index 7b6ce48..0c0f352 100644
 
 ## Diverses
 
+- Umfrage
 - Swiss PGDay sucht noch freiwillige am 30.06.12 -> Bitte bei Stefan Keller melden
 
 ## Schliessung der Generalversammlung
