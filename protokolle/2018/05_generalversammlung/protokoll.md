@@ -6,10 +6,10 @@ Total Stimmenzahl: ??
 
 ## Ort und Zeit
 
-*Eröffnung der GV durch den Präsidenten Dennis Ligtenberg.*
+*Eröffnung der GV durch den Vize-Präsidenten Matteo Kamm (der Präsident konnte leider nicht persönlich teilnehmen).*
 
 **Ort:** Rapperswil  
-**Tag:** 2018-05-23
+**Tag:** 2018-05-29
 **Zeit:** 17:05 bis 17:??
 
 ## Traktanden
@@ -70,8 +70,8 @@ Wahl neuer Vorstand
 
 Funktion  | Name
 ----------|---------------
-Präsident | Dennis Ligtenberg
-Vize-Präsident | Matteo Kamm
+Präsident | Matteo Kamm
+Vize-Präsident | 
 Kassier | Fabian Hauser
 Beistand | Aaron Meier
 
@@ -79,11 +79,13 @@ Beistand | Aaron Meier
 
 ### Änderungen Mitglieder
 
-Automatischer Ausschluss von Mitgliedern, welche nicht mehr an der HSR sind (gem. Statuten): ??? Personen.
+Automatischer Ausschluss von Mitgliedern, welche nicht mehr an der HSR sind (gem. Statuten): 1 Person.
+
+Weitere Austritte: 1 Person.
 
 ### Rückblick 2017
 
-- Neu ?? Mitglieder
+- Neu total 55 Mitglieder
 - open\HSR Connect Nachfolger mit EPJ Kitovu, Präsentation morgen ab 11:05
 - Kaum Vereinsaktivität in 2017
     - keine Flyer verteilt anfang vereinjahr; Vereinsvorstellung??
@@ -99,9 +101,9 @@ Automatischer Ausschluss von Mitgliedern, welche nicht mehr an der HSR sind (gem
 
 ## Schliessung der Generalversammlung
 
-Präsident | Kassierin
+Vize-Präsident | Kassierin
 ------------|----------
-Dennis Ligtenberg | Muriele Trentini
+Matteo Kamm | Muriele Trentini
 &nbsp; | &nbsp;
 
-*GV wurde von Präsidenten geschlossen*
+*GV wurde von Vize-Präsidenten geschlossen*
