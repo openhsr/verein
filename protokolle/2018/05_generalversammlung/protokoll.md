@@ -21,6 +21,10 @@ Total Stimmenzahl: ??
 ### Abnahme Traktandenliste 
 *Traktandenliste gemäss Verschlag wurden ???*
 
+### Protokoll 2017
+
+Vorstellen des [Protokoll der GV 2017](https://github.com/openhsr/verein/blob/master/protokolle/2017/04_generalversammlung/protokoll.md) wie auf github abgelegt.
+
 ### Jahresabschluss
 
 Budgetpunkt     | 2017 soll | 2017 ist |
@@ -37,10 +41,10 @@ Sticker         | -         | 0 CHF
 ----------------|-----------|--------- |
 Summe           | 1069.30   | 803.60
 
-*Jahresabschluss von Muriele Trentini erläutert.*
+*Jahresabschluss vom Vize-Präsidenten erläutert.*
 
 #### Sponsoring
-Es wurde vom Vorstand keine Verlängerung des Sponsorings beantragt, deshalb wurden nur die bereits vereinbarten Beträge eingenommen
+Es wurde vom Vorstand im Vereinsjahr 2017 keine Verlängerung des Sponsorings beantragt, deshalb wurden nur die bereits vereinbarten Beträge eingenommen
 
 - **Nine**
   Finanzierung der letztjährigen GV Verpflegung.
@@ -51,16 +55,22 @@ Es wurde vom Vorstand keine Verlängerung des Sponsorings beantragt, deshalb wur
 
 Budgetpunkt     | Budget 2018
 ----------------|------------
+Vermögen (Übertrag) | 803.60
 **Einnahmen**   |
 Mitgliederbeiträge | 0 CHF
 Sponsoring      | 0 CHF
-Vermögen        | 803.60
+Beitrag VSHSR Studentenportal | 200 CHF
 **Ausgaben**    |
-Domain          | 10.75 CHF
+Domain          | 0 CHF
 Druck Flyer     | 100 CHF
 Anlässe         | 500 CHF
+Studenteportal  | 200 CHF
 ----------------|-----------|
-Summe           | 191.60   |
+Summe           |  203.60   |
+
+* Der VSHSR plant, neu pro Jahr 200 CHF an den Betrieb des Studentenportals zu geben, welche neu durch den open\HSR unterstützt wird.
+  * Muss noch eingeplant und an der GV entschieden werden
+* Mitgliederbeitrag weiterhin 0 CHF
 
 *Budget wurde einstimmig ???.*
 
@@ -71,9 +81,8 @@ Wahl neuer Vorstand
 Funktion  | Name
 ----------|---------------
 Präsident | Matteo Kamm
-Vize-Präsident | 
+Vize-Präsident | Mike Marti
 Kassier | Fabian Hauser
-Beistand | Aaron Meier
 
 *Neuer Vorstand wurde einstimmig ???.*
 
@@ -85,10 +94,11 @@ Weitere Austritte: 1 Person.
 
 ### Rückblick 2017
 
-- Neu total 55 Mitglieder
-- open\HSR Connect Nachfolger mit EPJ Kitovu, Präsentation morgen ab 11:05
+- Neu total 56 Mitglieder
+- open\HSR Connect Nachfolger mit EPJ Kitovu: Präsentation gleich anschliessend zur GV
+- Teilnahme an der Vereinsvorstellung
 - Kaum Vereinsaktivität in 2017
-    - keine Flyer verteilt anfang vereinjahr; Vereinsvorstellung??
+    - keine Flyer verteilt anfang vereinjahr
     - Keine Newsletter mit News versendet
 - Zusammenarbeit mit Studentenportal gestartet, ca. gleicher Stand wie letztes Jahr.
   - Aktuell suche von neuen Freiwilligen
