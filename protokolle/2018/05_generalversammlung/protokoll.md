@@ -64,13 +64,13 @@ Beitrag VSHSR Studentenportal | 200 CHF
 Domain          | 0 CHF
 Druck Flyer     | 100 CHF
 Anlässe         | 500 CHF
-Studenteportal  | 200 CHF
+Studentenportal  | 200 CHF
 ----------------|-----------|
 Summe           |  203.60   |
 
 * Der VSHSR plant, neu pro Jahr 200 CHF an den Betrieb des Studentenportals zu geben, welche neu durch den open\HSR unterstützt wird.
-  * Muss noch eingeplant und an der GV entschieden werden
-* Mitgliederbeitrag weiterhin 0 CHF
+  * Muss noch eingeplant und an der GV entschieden werden.
+* Mitgliederbeitrag bleibt weiterhin bei 0 CHF.
 
 *Budget wurde einstimmig ???.*
 
@@ -98,10 +98,10 @@ Weitere Austritte: 1 Person.
 - open\HSR Connect Nachfolger mit EPJ Kitovu: Präsentation gleich anschliessend zur GV
 - Teilnahme an der Vereinsvorstellung
 - Kaum Vereinsaktivität in 2017
-    - keine Flyer verteilt anfang vereinjahr
+    - keine Flyer verteilt anfang Vereinsjahr
     - Keine Newsletter mit News versendet
 - Zusammenarbeit mit Studentenportal gestartet, ca. gleicher Stand wie letztes Jahr.
-  - Aktuell suche von neuen Freiwilligen
+  - Aktuell die Suche von neuen Freiwilligen
 
 *Punkte wurden erklärt und besprochen.* 
 
