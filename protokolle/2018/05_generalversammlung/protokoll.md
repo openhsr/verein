@@ -158,7 +158,7 @@ Weitere Austritte: 1 Person.
   * Keine Newsletter mit News versendet
   * Dies soll sich im kommenden Vereinsjahr ändern
 * Zusammenarbeit mit Studentenportal gestartet, ca. gleicher Stand wie letztes Jahr
-  * Aktuell Suche von neuen Freiwilligen
+  * Aktuell die Suche von neuen Freiwilligen
 
 *Aussprache über das Interesse an einem Codesprint für das Studentenportal. Es gibt Neulinge, die mittels Pair-Programming in Python geschult werden möchten.*
 *Simon Schäfer hat die Aufgabe, sich um das Studentenportal zu kümmern.*
