@@ -28,9 +28,16 @@ Mitglieder, die über einen GitHub-Account verfügen werden beim Vereinseintritt
 # Finanzen
 ## Sponsoring
 Die Verträge mit den Sponsoren sind auf ein Jahr befristet und müssen im September erneuert werden.
+Die Sponsoringverträge werden im [Vereinsrepository unter sponsoring abgelegt](https://github.com/openhsr/verein/tree/master/sponsoring).
 
-TODO: Wo sind die Verträge / Vorlage abgelegt?
-TODO: Wo sind die Preise / Konditionen abgelegt?
+Für das Sponsoring gibt es folgende übliche Kategorien:
+
+ Preis | Leistungen
+-------|-----------
+ 200   | Logo auf Webseite
+ 400   | Logo auf Webseite und im open\HSR Flyer (ca. Briefmarkengross)
+ 600   | Logo auf Webseite, im open\HSR Flyer (ca. Briefmarkengross) und bei Events im A4 Format
+
 
 ## Buchhaltung
 TODO: Wo wie abgelegt?
@@ -55,7 +62,7 @@ Die Website und die Paketquellen des open\HSR Connect werden automatisch über T
 - [ ] Vorstand / Organisations Mitgleider / Admins auf GitHub anpassen
 - [ ] Vorstandsmitglieder im Pass-Repository hinzufügen / entfernen
  - [ ] Zugriff auf E-Mail Postfach für neue Vorstandsmitglieder einrichten
-- [ ] Papierunterlagen (Protokolle etc.) übergeben (Präsident)
+- [ ] Papierunterlagen (Protokolle, Stickers etc.) übergeben (Präsident)
 - [ ] Konto übergeben (Kassier und Präsident)
 - [ ] Kontakte/Sponsoren informieren
 - [ ] Evtl. Verträge anpassen

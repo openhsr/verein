@@ -9,7 +9,7 @@ Total Stimmenzahl: 18 Stimmen
 *Eröffnung der GV durch den Präsidenten Fabian Hauser.*
 
 **Ort:** Rapperswil  
-**Tag:** 2016-04-25
+**Tag:** 2017-04-25
 **Zeit:** 17:05 bis 17:35
 
 ## Traktanden
