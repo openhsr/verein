@@ -30,7 +30,7 @@ Vorstellen des [Protokoll der GV 2017](https://github.com/openhsr/verein/blob/ma
 *Das Protokoll der GV 2017 wurde präsentiert.*
 *Falsches Datum im GV Protokoll 2017 wurde behoben.*
 
-*Das letztjährige Protokoll wird von der Vereinsversammlung mit 17 zu 0 Stimmen angenommen.*
+*Das letztjährige Protokoll wird von der Vereinsversammlung mit 17 Ja-Stimmen, 0 Nein-Stimmen und 1 Enthaltung angenommen.*
 
 ### Jahresabschluss
 
@@ -93,7 +93,7 @@ Summe           |  203.60   |
 *Feststellung: Der open\HSR hat mehr Mittel und Zeit, um sich um die Codequalität des Studentenportals zu kümmern.*
 *Das Interesse am Studentenportal soll laut Angaben einiger Vereinsmitglieder hoch sein.*
 
-*Die Vereinsversammlung nimmt mit 15 zu 0 Stimmen an, dass der Vorstand, im Rahmen und Interesse des Projekts, die Macht über die 200 CHF besitzt.*
+*Die Vereinsversammlung nimmt mit 15 Ja-Stimmen, 0 Nein-Stimmen und 3 Enthaltungen an, dass der Vorstand, im Rahmen und Interesse des Projekts, die Macht über die 200 CHF besitzt.*
 *Dies impliziert das Interesse des Vereins, an der Überarbeitung des Studentenportals.*
     
 *Mitgliederbeitrag beträgt weiterhin 0 CHF.*
@@ -102,12 +102,12 @@ Summe           |  203.60   |
 *Es wird darüber gesprochen, dass der Verein in den letzten 2 Jahren einiges an Verlusten gemacht hat. Dies soll sich dieses Vereinsjahr ändern.*
 *Der Vorstand soll als Ziel 1000 CHF über Sponsoreneinnahmen generieren.*
 
-*Die Vereinsversammlung nimmt den Sponsorensuchauftrag mit 14 zu 0 Stimmen an.*
+*Die Vereinsversammlung nimmt den Sponsorensuchauftrag mit 14 Ja-Stimmen, 0 Nein-Stimmen und 4 Enthaltungen an.*
 
 *Es wird angemerkt, dass die Anlasskosten zu hoch seien.*
 *Einige Vereinsmitglieder finden die Summe von 500 CHF angebracht.*
 
-*Die Vereinsversammlung nimmt den Budgetplan für das kommende Vereinsjahr mit 17 zu 0 Stimmen an.*
+*Die Vereinsversammlung nimmt den Budgetplan für das kommende Vereinsjahr mit 17 Ja-Stimmen, 0 Nein-Stimmen und 1 Enthaltung an.*
 
 ### Vorstandänderungen
 
@@ -123,7 +123,7 @@ Kassier | Fabian Hauser
   * *Der alte Präsident tritt von seinem Amt zurück.*
   * *Matteo Kamm stellt sich als Präsident zur Wahl.*
 
-*Die Vereinsversammlung wählt Matteo Kamm mit 17 zu 0 Stimmen zum neuen Präsidenten.*
+*Die Vereinsversammlung wählt Matteo Kamm mit 17 Ja-Stimmen, 0 Nein-Stimmen und 1 Enthaltung zum neuen Präsidenten.*
 
 * Vize-Präsidenten:
   * *André Bachmann stellt sich als Vize-Präsident zur Wahl.*
@@ -140,7 +140,7 @@ Kassier | Fabian Hauser
   * *André Bachmann stellt sich als Kassier zur Wahl.*
   * *Fabian Hauser tritt von seiner Kandidatur zurück.*
 
-*Die Vereinsversammlung wählt André Bachmann mit 16 zu 0 Stimmen zum neuen Kassier.*
+*Die Vereinsversammlung wählt André Bachmann mit 16 Ja-Stimmen, 0 Nein-Stimmen und 2 Enthaltungen zum neuen Kassier.*
 
 ### Änderungen Mitglieder
 
