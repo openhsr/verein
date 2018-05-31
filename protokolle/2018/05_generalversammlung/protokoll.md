@@ -142,6 +142,9 @@ Kassier | Fabian Hauser
 
 *Die Vereinsversammlung wählt André Bachmann mit 16 Ja-Stimmen, 0 Nein-Stimmen und 2 Enthaltungen zum neuen Kassier.*
 
+*Aaron Meier zog sich von seinem Amt als Beisitz zurück.*
+*Es wurde kein neuer Beisitz gewählt.*
+
 ### Änderungen Mitglieder
 
 Automatischer Ausschluss von Mitgliedern, welche nicht mehr an der HSR sind (gem. Statuten): 1 Person.
