@@ -59,7 +59,7 @@ Die Website und die Paketquellen des open\HSR Connect werden automatisch über T
 
 # Checkliste neue Vorstandsmitglieder
 - [ ] Vorstand auf der Website anpassen
-- [ ] Vorstand / Organisations Mitgleider / Admins auf GitHub anpassen
+- [ ] Vorstand (@openhsr/vorstand) / Organisations Mitglieder / Admins auf GitHub anpassen
 - [ ] Vorstandsmitglieder im Pass-Repository hinzufügen / entfernen
  - [ ] Zugriff auf E-Mail Postfach für neue Vorstandsmitglieder einrichten
 - [ ] Papierunterlagen (Protokolle, Stickers etc.) übergeben (Präsident)
