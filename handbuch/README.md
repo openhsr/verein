@@ -66,3 +66,4 @@ Die Website und die Paketquellen des open\HSR Connect werden automatisch über T
 - [ ] Konto übergeben (Kassier und Präsident)
 - [ ] Kontakte/Sponsoren informieren
 - [ ] Evtl. Verträge anpassen
+- [ ] Neue Passwörter generieren & Keys updaten
