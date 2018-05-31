@@ -15,8 +15,8 @@ Total Stimmenzahl: 18
 ## Traktanden
 
 ### Wahl Protokollführer und Stimmenzähler
-*Als Protkollführer wurde einstimmig Mike Marti gewählt*
-*Als Stimmenzähler wurde einstimmig André Bachmann gewählt*
+*Als Protkollführer wurde einstimmig Mike Marti gewählt.*
+*Als Stimmenzähler wurde einstimmig André Bachmann gewählt.*
 
 ### Abnahme Traktandenliste
 *Die Traktandenliste wurde präsentiert.*
@@ -50,11 +50,11 @@ Summe           | 1069.30   | 803.60
 
 *Jahresabschluss vom Vize-Präsidenten erläutert.*
 
-*Die doppelten Doaminkosten wurden von einem Vereinsmitglied angesprochen.*
+*Die doppelten Domainkosten wurden von einem Vereinsmitglied angesprochen.*
 *Fabian Hauser: Domainkosten sind im letzten Vereinsjahr 2 mal angestanden.*
 
 #### Sponsoring
-Es wurde vom Vorstand im Vereinsjahr 2017 keine Verlängerung des Sponsorings beantragt, deshalb wurden nur die bereits vereinbarten Beträge eingenommen
+Es wurde vom Vorstand im Vereinsjahr 2017 keine Verlängerung des Sponsorings beantragt, deshalb wurden nur die bereits vereinbarten Beträge eingenommen.
 
 - **Nine**
   Finanzierung der letztjährigen GV Verpflegung.
