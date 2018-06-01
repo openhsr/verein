@@ -21,7 +21,7 @@ Total Stimmenzahl: 18
 ### Abnahme Traktandenliste
 *Die Traktandenliste wurde präsentiert.*
 
-*Die Traktandenliste gemäss Verschlag wurde von der Vereinsversammlung einstimmig angenommen.*
+*Die Traktandenliste gemäss Vorschlag wurde von der Vereinsversammlung einstimmig angenommen.*
 
 ### Protokoll 2017
 
@@ -88,7 +88,7 @@ Summe           |  203.60   |
   * *Das Geld sollte primär für das Updaten der Studentenportal Webseite verwendet werden.*
   * *Alle überschüssigen Mittel fliessen in die open\HSR Vereinskasse.*
   * *Der VSHSR hätte einen enormen zeitlicher Mehraufwand, sich um die Codequalität zu kümmern und über alle Ausgaben Buch zu führen.*
-*Einwürfe, warum der open\HSR an diesem Projekt betiligt sei soll. Weshalb nicht der VSHSR selbst.*
+*Einwürfe, warum der open\HSR an diesem Projekt beteiligt sein soll. Weshalb nicht der VSHSR selbst.*
 *Kritische Stimme gegen Bugbounty, das Geld sollte eher für einen Codesprint verwendet werden.*
 *Feststellung: Der open\HSR hat mehr Mittel und Zeit, um sich um die Codequalität des Studentenportals zu kümmern.*
 *Das Interesse am Studentenportal soll laut Angaben einiger Vereinsmitglieder hoch sein.*
@@ -98,7 +98,7 @@ Summe           |  203.60   |
     
 *Mitgliederbeitrag beträgt weiterhin 0 CHF.*
 
-*Es sollte im nächsten Vereinsjahr aktiver nach Sponsoren gesucht werden, damit wieder genügend Budget vorhanden ist.*
+*Es sollte im nächsten Vereinsjahr aktiver nach Sponsoren gesucht werden, damit wieder genügend finanzielle Mittel vorhanden sind.*
 *Es wird darüber gesprochen, dass der Verein in den letzten 2 Jahren einiges an Verlusten gemacht hat. Dies soll sich dieses Vereinsjahr ändern.*
 *Der Vorstand soll als Ziel 1000 CHF über Sponsoreneinnahmen generieren.*
 
