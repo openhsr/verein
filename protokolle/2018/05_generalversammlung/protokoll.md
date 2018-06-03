@@ -117,7 +117,7 @@ Funktion  | Name
 ----------|---------------
 Präsident | Matteo Kamm
 Vize-Präsident | Mike Marti
-Kassier | Fabian Hauser
+Kassier | André Bachmann
 
 * Präsident:
   * *Der alte Präsident tritt von seinem Amt zurück.*
@@ -206,4 +206,4 @@ Vize-Präsident | Kassierin
 Matteo Kamm | Muriele Trentini
 &nbsp; | &nbsp;
 
-*GV wurde von Vize-Präsidenten geschlossen.*
+*GV wurde vom Vize-Präsidenten geschlossen.*
