@@ -32,11 +32,11 @@ Die Sponsoringverträge werden im [Vereinsrepository unter sponsoring abgelegt](
 
 Für das Sponsoring gibt es folgende übliche Kategorien:
 
- Preis | Leistungen
--------|-----------
- 200   | Logo auf Webseite
- 400   | Logo auf Webseite und im open\HSR Flyer (ca. Briefmarkengross)
- 600   | Logo auf Webseite, im open\HSR Flyer (ca. Briefmarkengross) und bei Events im A4 Format
+ Preis   | Leistungen
+---------|-----------
+ 200 CHF | Logo auf Webseite
+ 400 CHF | Logo auf Webseite und im open\HSR Flyer (ca. Briefmarkengross)
+ 600 CHF | Logo auf Webseite, im open\HSR Flyer (ca. Briefmarkengross) und bei Events im A4 Format
 
 
 ## Buchhaltung
