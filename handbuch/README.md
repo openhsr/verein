@@ -40,12 +40,15 @@ Für das Sponsoring gibt es folgende übliche Kategorien:
 
 
 ## Buchhaltung
-TODO: Wo wie abgelegt?
+Rechnungen und Quittungen *müssen* aufbewahrt und dem Kassier abgegeben werden.
+Er kümmert sich jeweils um Buchhaltung, d.h. er erstellt eine Schlussrechnung und das Budget für das kommende Vereinsjahr.
+Ausserdem legt er die Quittungen und Rechnungen ab und schreibt zusätzlich auf, wann diese bezahlt wurden.
+Momentan ist die Buchhaltung im Vereinsordner abgelegt.
 
 # Termine / Veranstaltungen
 - Sponsoren suchen bzw. Verträge erneuern (Juni/Juli)
 - Neue Flyer drucken (Juni/Juli).
-- GV nach Semesterstart (September/Oktobar)
+- GV nach Semesterstart (September/Oktober)
 - Newsletter 1-3x je Semester
 
 - Codesprints (Meist am ende der zwei Wochen Wiederholungsprüfungen)
