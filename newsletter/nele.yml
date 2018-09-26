@@ -3,8 +3,8 @@ email:
 
 sender:
     host: asmtp.mail.hostpoint.ch
-    ssl: false
-    starttls: true
+    ssl: true
+    starttls: false
     user: info@openhsr.ch
     sender: '"open\HSR Newsletter" <info@openhsr.ch>'
 
