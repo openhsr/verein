@@ -16,29 +16,52 @@ Total Stimmenzahl: N Stimmen
 
 ### Abnahme Traktandenliste
 
-Abnahme Traktandenliste durch Plenum.
+### Abnahme [Protokoll 2018](https://github.com/openhsr/verein/blob/master/protokolle/2018/05_generalversammlung/protokoll.md)
 
-### Abnahme Protokoll 2018
+### Jahresabschluss (01.10.2017 - 30.09.2018)
 
-Abstimmung, ob das GV-Protokoll vom 29.05.2018 angennommen wird.
+| Budgetpunkt                   | Soll       | Ist         |
+|-------------------------------|------------|-------------|
+| Vermögen (Übertrag)           | 803.60 CHF | 803.60 CHF  |
+| **Einnahmen**                 |            |             |
+| Mitgliederbeiträge            | 0 CHF      | 0 CHF       |
+| Sponsoring                    | 0 CHF      | 2000 CHF    |
+| Beitrag VSHSR Studentenportal | 200 CHF    | 200 CHF     |
+| **Ausgaben**                  |            |             |
+| Domain                        | 0 CHF      | 10.70 CHF   |
+| Druck Flyer                   | 100 CHF    | 15.15 CHF   |
+| Anlässe                       | 500 CHF    | 256.45 CHF  |
+| Studentenportal               | 200 CHF    | 200 CHF     |
+|                               |            |             |
+| Summe                         | 203.60 CHF | 1717.70 CHF |
 
-### Jahresabschluss
+Erläuterung des Jahresabschlusses durch den Kassier.
+Entlastung des Vorstands durch die Vereinsversammlung.
 
-### Budget 2020
+### Budget (01.10.2019 - 30.09.2020)
+
+| Budgetpunkt         | Budget      |
+|---------------------|-------------|
+| Vermögen (Übertrag) | 1717.70 CHF |
+| **Einnahmen**       |             |
+| Mitgliederbeiträge  | 0 CHF       |
+| Sponsoring          | 2000 CHF    |
+| **Ausgaben**        |             |
+| Domain              | 10.70 CHF   |
+| Druck Flyer         | 20 CHF      |
+| Anlässe             | 500 CHF     |
+|                     |             |
+| Summe               | 3187 CHF    |
 
 ### Vorstandsänderungen
 
-Wahl neuer Vorstand
+Wahl des neuen Vorstands.
 
 |Funktion       |Name|
 |---------------|----|
 |Präsident      |    |
 |Vize-Präsident |    |
 |Kassier        |    |
-
-### Berichte
-
-#### Vorstand
 
 ### Varia
 
