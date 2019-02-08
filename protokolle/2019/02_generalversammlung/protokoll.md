@@ -63,6 +63,8 @@ Wahl des neuen Vorstands.
 |Vize-Präsident |    |
 |Kassier        |    |
 
+### Git Workshop 2019
+
 ### Varia
 
 ## Schliessung der Generalversammlung
