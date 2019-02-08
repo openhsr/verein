@@ -48,10 +48,10 @@ Entlastung des Vorstands durch die Vereinsversammlung.
 | Sponsoring          | 2000 CHF    |
 | **Ausgaben**        |             |
 | Domain              | 10.70 CHF   |
-| Druck Flyer         | 20 CHF      |
+| Druck Flyer         | 50 CHF      |
 | Anlässe             | 500 CHF     |
 |                     |             |
-| Summe               | 3187 CHF    |
+| Summe               | 3157 CHF    |
 
 ### Vorstandsänderungen
 
