@@ -6,7 +6,7 @@ Total Stimmenzahl: N Stimmen
 
 ## Ort und Zeit
 
-**Ort:** Hochschule für Technik Rapperswil<br/>
+**Ort:** Raum 1.271 Hochschule für Technik Rapperswil<br/>
 **Tag:** 22.02.2019<br/>
 **Zeit:** 17:00 bis HH:MM<br/>
 
