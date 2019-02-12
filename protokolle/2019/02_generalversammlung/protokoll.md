@@ -38,7 +38,7 @@ Total Stimmenzahl: N Stimmen
 Erläuterung des Jahresabschlusses durch den Kassier.
 Entlastung des Vorstands durch die Vereinsversammlung.
 
-### Budget (01.10.2019 - 30.09.2020)
+### Budget (01.10.2018 - 30.09.2019)
 
 | Budgetpunkt         | Budget      |
 |---------------------|-------------|
