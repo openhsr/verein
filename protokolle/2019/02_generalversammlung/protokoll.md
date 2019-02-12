@@ -65,6 +65,8 @@ Wahl des neuen Vorstands.
 
 ### Git Workshop 2019
 
+### Sponsoring Studentenportal
+
 ### Varia
 
 ## Schliessung der Generalversammlung
