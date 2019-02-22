@@ -45,13 +45,14 @@ Entlastung des Vorstands durch die Vereinsversammlung.
 | Vermögen (Übertrag) | 1717.70 CHF |
 | **Einnahmen**       |             |
 | Mitgliederbeiträge  | 0 CHF       |
-| Sponsoring          | 2000 CHF    |
+| Sponsoring          | 2500 CHF    |
 | **Ausgaben**        |             |
 | Domain              | 10.70 CHF   |
 | Druck Flyer         | 50 CHF      |
-| Anlässe             | 500 CHF     |
+| Anlässe             | 1000 CHF    |
+| Studentenportal     | 1500 CHF    |
 |                     |             |
-| Summe               | 3157 CHF    |
+| Summe               | 1657 CHF    |
 
 ### Vorstandsänderungen
 
