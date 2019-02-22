@@ -2,7 +2,7 @@
 
 ## Anwesend
 
-Total Stimmenzahl: N Stimmen 
+Total Stimmenzahl: 15 Stimmen 
 
 ## Ort und Zeit
 
@@ -15,6 +15,8 @@ Total Stimmenzahl: N Stimmen
 ### Wahl Protokollführer und Stimmenzähler
 
 ### Abnahme Traktandenliste
+
+Angenommen mit 1 Enthaltung
 
 ### Abnahme [Protokoll 2018](https://github.com/openhsr/verein/blob/master/protokolle/2018/05_generalversammlung/protokoll.md)
 
@@ -38,37 +40,79 @@ Total Stimmenzahl: N Stimmen
 Erläuterung des Jahresabschlusses durch den Kassier.
 Entlastung des Vorstands durch die Vereinsversammlung.
 
-### Budget (01.10.2018 - 30.09.2019)
+Angenommen mit 14 Pro, 1 Enthaltung
 
-| Budgetpunkt         | Budget      |
-|---------------------|-------------|
-| Vermögen (Übertrag) | 1717.70 CHF |
-| **Einnahmen**       |             |
-| Mitgliederbeiträge  | 0 CHF       |
-| Sponsoring          | 2500 CHF    |
-| **Ausgaben**        |             |
-| Domain              | 10.70 CHF   |
-| Druck Flyer         | 50 CHF      |
-| Anlässe             | 1000 CHF    |
-| Studentenportal     | 1500 CHF    |
-|                     |             |
-| Summe               | 1657 CHF    |
+<!-- verschoben auf später -->
 
 ### Vorstandsänderungen
+
+Bisheriger Vorstand schliesst Studium bald ab, daher neue Vorstandsmitglieder notwendig!
 
 Wahl des neuen Vorstands.
 
 |Funktion       |Name|
 |---------------|----|
-|Präsident      |    |
-|Vize-Präsident |    |
-|Kassier        |    |
+|Präsident      | Einst. gewählt: Fabian   |
+|Vize-Präsident | Einst. gewählt: Dominik Hüppi   |
+|Kassier        | Einst. gewählt: Lukas  Volk |
 
 ### Git Workshop 2019
 
+Fabian & Raphael schlagen vor, wieder einen Git-WS durchzuführen.
+
+- wenig Know-How in Studentenschaft
+- nützlich für Projekte
+
+Benötigt:
+- etw. Budget
+    - Verpflegung
+- Vorträge (Material vorhanden)
+- Vortragende (Raphael & Fabian)
+- weitere Helfer
+
+ca. Mitte FS19
+
+Gratis für Mitglieder oder für alle?
+
+Budget CHF 600 (für 1 oder 2 WS)? (Wird als Teil des Gesamt-Budget entschieden.)
+
 ### Sponsoring Studentenportal
 
+open\HSR will Studi-Port. unterstützen. (Früherer VV-Entscheid)
+
+2 Code-Sprints wurden organisiert, reichte jedoch weitaus (noch) nicht.
+
+Vorschlag Fabian: open\HSR übernimmt das Portal, VSHSR steckt aber noch Geld rein
+
+Vorschlag Flo: Bezahlter Maintainer (Flo) CHF 1000
+
+Vorschlag Fabian: weitere CHF 500 für sonstiges bzgl. Studentenportal
+
+Abstimmung: Soll open\HSR Portal übernehmen?
+Angehommen: 12 dafür, 1 dagegen, 2 enthaltungen 
+
+### Budget (01.10.2018 - 30.09.2019)
+
+| Budgetpunkt         | Budget      |
+|---------------------|-------------|
+| Vermögen (Übertrag) | 1717.70 CHF |
+| **Einnahmen**      |             |
+| Mitgliederbeiträge  | 0 CHF       |
+| Sponsoring          | 2500 CHF    |
+| **Ausgaben**       |             |
+| Domain              | 10.70 CHF   |
+| Druck Flyer         | 50 CHF      |
+| Anlässe             | 1000 CHF    |
+| Studentenportal     | 1500 CHF    |
+| Summe               | 1657 CHF    |
+
+Angenommen: Mit 1 Enthaltung
+
+Entlastung Vorstand: Angenommen mit 1 Enthaltung
+
 ### Varia
+
+- Informatik-Tage: Programmier-Kurs am 11. März: Helfer gesucht -> Bei Claudia oder Raphael melden
 
 ## Schliessung der Generalversammlung
 
