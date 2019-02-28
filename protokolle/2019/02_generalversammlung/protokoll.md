@@ -8,17 +8,24 @@ Total Stimmenzahl: 15 Stimmen
 
 **Ort:** Raum 1.271 Hochschule für Technik Rapperswil<br/>
 **Tag:** 22.02.2019<br/>
-**Zeit:** 17:00 bis HH:MM<br/>
+**Zeit:** 17:00 bis 18:00<br/>
 
 ## Traktanden
 
 ### Wahl Protokollführer und Stimmenzähler
+
+Mike Schmid wird einstimmig zum Stimmzähler gewählt.
+
+Raphael Das Gupta wird einstimig zum Protokollschreiber gewählt.
+
 
 ### Abnahme Traktandenliste
 
 Angenommen mit 1 Enthaltung
 
 ### Abnahme [Protokoll 2018](https://github.com/openhsr/verein/blob/master/protokolle/2018/05_generalversammlung/protokoll.md)
+
+Das Protokoll der GV 2018 wird einstimmig angenommen.
 
 ### Jahresabschluss (01.10.2017 - 30.09.2018)
 
@@ -52,8 +59,8 @@ Wahl des neuen Vorstands.
 
 |Funktion       |Name|
 |---------------|----|
-|Präsident      | Einst. gewählt: Fabian   |
-|Vize-Präsident | Einst. gewählt: Dominik Hüppi   |
+|Präsident      | Einst. gewählt: Fabian Hauser |
+|Vize-Präsident | Einst. gewählt: Dominic Hüppi |
 |Kassier        | Einst. gewählt: Lukas  Volk |
 
 ### Git Workshop 2019
