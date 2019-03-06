@@ -38,6 +38,19 @@ Interessenten können sich via E-Mail oder Persönlich melden, um Mitglied zu we
 Mitglieder, die über einen GitHub-Account verfügen werden beim Vereinseintritt auch manuell vom Vorstand in die Github-Organisation eingetragen. Als einfaches Mitglied erhält man automatisch keine zusätzlichen Lese/Schreib-Rechte, diese müssen einzeln vom Vorstand geprüft und erteilt werden.
 
 # Finanzen
+
+## Konto
+Der Kassier und der Präsident werden je als unterschriftsberechtigt für Bankgeschäfte hinterlegt.  
+Der Kassier erhält zusätzlich ein E-Banking-Login, welcher direkt an eine persönliche Mobile-Nr. gekoppelt ist.
+
+```
+open\HSR
+IBAN CH13 0078 1621 1985 7200 0
+St. Galler Kantonalbank
+St. Leonhardstrasse 25
+9001 St. Gallen
+```
+
 ## Sponsoring
 Die Verträge mit den Sponsoren sind auf ein Jahr befristet und müssen im September erneuert werden.
 Die Sponsoringverträge werden im [Vereinsrepository unter sponsoring abgelegt](https://github.com/openhsr/verein/tree/master/sponsoring).
@@ -79,7 +92,9 @@ Die Website und die Paketquellen des open\HSR Connect werden automatisch über T
 - [ ] Zugriff auf E-Mail Postfach für neue Vorstandsmitglieder einrichten
 - [ ] Papierunterlagen (Protokolle, Stickers etc.) übergeben (Präsident)
 - [ ] Adresse beim DNS und  beim Domain Anbieter ändern (Präsident)
-- [ ] Konto übergeben (Kassier und Präsident)
-- [ ] Kontakte/Sponsoren informieren
-- [ ] Evtl. Verträge anpassen
+- [ ] Konto übergeben (neuer Kassier und Präsident)
+  - Benötigt das unterschriebene Protokoll der letzten GV.
 - [ ] Neue Passwörter generieren & Keys updaten
+- [ ] Vereinspostfach beim VSHSR im Gebäude 4 zeigen
+- [ ] Evtl. Kontakte/Sponsoren informieren
+- [ ] Evtl. Verträge anpassen
