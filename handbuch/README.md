@@ -9,6 +9,18 @@ Die Zugangsdaten finden sich im [Pass-Repository](https://github.com/openhsr/pas
 ## Newsletter
 Newsletter werden ca. 1-3 Mal pro Semester an alle Mitglieder des Vereins gesendet. Sie werden im [Vereins-Repository](https://github.com/openhsr/verein/tree/master/newsletter) abgelegt. Am gleichen Ort befindet sich eine Anleitung, wie die Newsletter versendet werden können.
 
+## Snail Mail
+
+Post für den open\HSR wird im Postfach des VSHSR im Gebäude 4 (neben dem Empfang) abgelegt. Das Postfach sollte gelegentlich geleert werden.
+
+Die Vereinsadresse lautet:
+
+```
+Verein open\HSR
+Oberseestrasse 10
+8640 Rapperswil-Jona
+```
+
 ## Flyer
 Flyer können dem Studiengangleiter frühzeitig (!) vor Semesterbeginn abgegeben werden. Die Flyer werden so zusammen mit allen anderen Unterlagen den neuen Studenten abgegeben.
 
