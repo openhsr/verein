@@ -33,6 +33,7 @@ def add_member():
 
     conn.commit()
     c.close()
+    print("Member has been added.")
 
 
 def confirm(message):
@@ -60,7 +61,7 @@ def main():
                        check=True
                        )
 
-    while confirm('Add new member?'):
+    while confirm('Add (another) new member?'):
         add_member()
 
     if confirm('Encrypt DB?'):
