@@ -34,7 +34,8 @@ Die Einstufung wird nach geschätzter Zielgruppengrösse und Streuung gemacht.
 
 ### Hauptsponsor
 
-**Kosten:** 2000 CHF / Jahr  
+**Kosten:** 2000 CHF / Jahr
+
 **Zielgruppen:**
 - Sämtliche Studierenden der HSR
 - Nutzer [studentenportal.ch](https://studentenportal.ch)
@@ -48,10 +49,10 @@ Die Einstufung wird nach geschätzter Zielgruppengrösse und Streuung gemacht.
 - Aufhängen an Events
 
 
-### Leistungen open\HSR
-## Sponsor
+### Sponsor
 
-**Kosten:** 1300 CHF / Jahr  
+**Kosten:** 1300 CHF / Jahr
+
 **Zielgruppen:**
 - Nutzer [studentenportal.ch](https://studentenportal.ch)
 - open\HSR Mitglieder
@@ -61,11 +62,13 @@ Die Einstufung wird nach geschätzter Zielgruppengrösse und Streuung gemacht.
 - Logo auf open\HSR Webseite
 - und Studentenportal
 
-## Supporter
+### Supporter
 
-**Kosten:** 600 CHF / Jahr  
+**Kosten:** 600 CHF / Jahr
+
 **Zielgruppen:**
 - open\HSR Mitglieder
 - Benutzer von Open Source Software und alternativen Betriebssystemen an der HSR (in erster Linie Linux und macOS)
+
 **Leistungen**: 
 - 1 Logo auf open\HSR Webseite
