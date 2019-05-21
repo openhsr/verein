@@ -1,5 +1,9 @@
 # Sponsoring
 
+Dieses Dokument gibt eine Übersicht über das Sponsoring im open\HSR.
+
+## Einführung
+
 Um für alle interessierten Personen offen zu sein (unabhängig der finanziellen Mittel), erhebt der open\HSR keine Mitgliedergebüren.
 Zur Finanzierung setzt der Verein ausschliesslich auf Sponsoring.
 
@@ -16,46 +20,52 @@ Der Verein ist für Intiativen seitens der Mitglieder offen und kann diese finan
 
 ## Potential für Sponsoren
 
-Der open\HSR bietet Sponsoren die Möglichkeit, ihr Logo (und z.T. Link) an verschiedenen Orten im Zusammenhang mit Open Source zu präsentieren.
+Der open\HSR bietet Sponsoren die Möglichkeit, ihr Logo (und, bei digitalen Medien, Link zur Website) an verschiedenen Orten im Zusammenhang mit Open Source zu präsentieren.
 In erster Linie werden damit aktuelle Studierende und potentielle Alumni der HSR angesprochen, welche an dem Betrieb interessiert sein könnten (z.B. als Arbeitsgeber oder Dienstleister).
 
 
 ## Konditionen
 Sponsoringverträge werden jeweils auf die Dauer eines Jahres mit einem oder mehreren Sponsoren (üblicherweise ein im Open-Source interessierter Betrieb) abgeschlossen.
 
-# Kategorien
+## Kategorien
 
 Sponsoren können sich für eine Kategorie entscheiden, welche die Positionierung des Logos an unterschiedlichen Medien und Webseiten abbilden.
 Die Einstufung wird nach geschätzter Zielgruppengrösse und Streuung gemacht.
 
-## Hauptsponsor
+### Hauptsponsor
 
-Kosten: 2000 CHF / Jahr
-Zielgruppen:
+**Kosten:** 2000 CHF / Jahr  
+**Zielgruppen:**
 - Sämtliche Studierenden der HSR
 - Nutzer [studentenportal.ch](https://studentenportal.ch)
+- open\HSR Mitglieder
+- Benutzer von Open Source Software und alternativen Betriebssystemen an der HSR (in erster Linie Linux und macOS)
 
-### Leistungen
+**Leistungen**:
 - 1 Logo auf open\HSR Flyer
-- Website und Studentenportal
+- Website
+- und Studentenportal
 - Aufhängen an Events
 
-### Zielgruppe
 
 ### Leistungen open\HSR
 ## Sponsor
 
-Kosten: 1300 CHF / Jahr
-Zielgruppe: 
+**Kosten:** 1300 CHF / Jahr  
+**Zielgruppen:**
+- Nutzer [studentenportal.ch](https://studentenportal.ch)
+- open\HSR Mitglieder
+- Benutzer von Open Source Software und alternativen Betriebssystemen an der HSR (in erster Linie Linux und macOS)
 
-### Leistungen open\HSR
-
-1 Logo auf open\HSR Webseite und Studentenporta
+**Leistungen:**
+- Logo auf open\HSR Webseite
+- und Studentenportal
 
 ## Supporter
 
-Kosten: 600 CHF / Jahr
-
-### Leistungen open\HSR
-
+**Kosten:** 600 CHF / Jahr  
+**Zielgruppen:**
+- open\HSR Mitglieder
+- Benutzer von Open Source Software und alternativen Betriebssystemen an der HSR (in erster Linie Linux und macOS)
+**Leistungen**: 
 - 1 Logo auf open\HSR Webseite
