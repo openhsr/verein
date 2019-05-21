@@ -59,14 +59,7 @@ St. Leonhardstrasse 25
 Die Verträge mit den Sponsoren sind auf ein Jahr befristet und müssen im September erneuert werden.
 Die Sponsoringverträge werden im [Vereinsrepository unter sponsoring abgelegt](https://github.com/openhsr/verein/tree/master/sponsoring).
 
-Für das Sponsoring gibt es folgende übliche Kategorien:
-
- Preis   | Leistungen
----------|-----------
- 200 CHF | Logo auf Webseite
- 400 CHF | Logo auf Webseite und im open\HSR Flyer (ca. Briefmarkengross)
- 600 CHF | Logo auf Webseite, im open\HSR Flyer (ca. Briefmarkengross) und bei Events im A4 Format
-
+Details zum Sponsoring sind der [Sponsoring-Übersicht](https://github.com/openhsr/verein/tree/master/sponsoring) zu entnehmen.
 
 ## Buchhaltung
 Rechnungen und Quittungen *müssen* aufbewahrt und dem Kassier abgegeben werden.
