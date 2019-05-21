@@ -1,3 +1,7 @@
+# Das Vereinshandbuch
+
+Dieses Vereinshandbuch dokumentiert den Aufbau des Vereins und die Aufgaben des Vorstands.
+
 # Kommunikation
 ## E-Mail
 Kommunikation im Namen des Vereins läuft über die E-Mail Adresse mit externen.
