@@ -25,7 +25,7 @@ In erster Linie werden damit aktuelle Studierende und potentielle Alumni der HSR
 
 
 ## Konditionen
-Sponsoringverträge werden jeweils auf die Dauer eines Jahres mit einem oder mehreren Sponsoren (üblicherweise ein im Open-Source interessierter Betrieb) abgeschlossen.
+Sponsoringverträge werden jeweils auf die Dauer eines Jahres mit einem oder mehreren Sponsoren abgeschlossen. Sponsoren sind üblicherweise im Open-Source interessierter Betriebe.
 
 ## Kategorien
 
@@ -37,16 +37,16 @@ Die Einstufung wird nach geschätzter Zielgruppengrösse und Streuung gemacht.
 **Kosten:** 2000 CHF / Jahr
 
 **Zielgruppen:**
-- Sämtliche Studierenden der HSR
-- Nutzer [studentenportal.ch](https://studentenportal.ch)
+- Sämtliche Studierenden der HSR (ca. 1500 Personen)
+- Nutzer [studentenportal.ch](https://studentenportal.ch) (ca. 100'000 Seitenaufrufe/Jahr)
 - open\HSR Mitglieder
 - Benutzer von Open Source Software und alternativen Betriebssystemen an der HSR (in erster Linie Linux und macOS)
 
 **Leistungen**:
-- 1 Logo auf open\HSR Flyer
-- Website
-- und Studentenportal
-- Aufhängen an Events
+- 1 Logo auf open\HSR Flyer (ca. Briefmarkengross)
+- Logo auf der open\HSR Website
+- Logo auf der Startseite des HSR Studentenportals
+- Aufhängen des Logos an open\HSR Events (A4 Format)
 
 
 ### Sponsor
@@ -54,13 +54,13 @@ Die Einstufung wird nach geschätzter Zielgruppengrösse und Streuung gemacht.
 **Kosten:** 1300 CHF / Jahr
 
 **Zielgruppen:**
-- Nutzer [studentenportal.ch](https://studentenportal.ch)
+- Nutzer [studentenportal.ch](https://studentenportal.ch) (ca. 100'000 Seitenaufrufe/Jahr)
 - open\HSR Mitglieder
 - Benutzer von Open Source Software und alternativen Betriebssystemen an der HSR (in erster Linie Linux und macOS)
 
 **Leistungen:**
-- Logo auf open\HSR Webseite
-- und Studentenportal
+- Logo auf der open\HSR Website
+- Logo auf der Startseite des HSR Studentenportals
 
 ### Supporter
 
@@ -71,4 +71,4 @@ Die Einstufung wird nach geschätzter Zielgruppengrösse und Streuung gemacht.
 - Benutzer von Open Source Software und alternativen Betriebssystemen an der HSR (in erster Linie Linux und macOS)
 
 **Leistungen**: 
-- 1 Logo auf open\HSR Webseite
+- Logo auf der open\HSR Website
