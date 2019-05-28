@@ -88,7 +88,6 @@ Die Website und die Paketquellen des open\HSR Connect werden automatisch über T
 - [ ] Vorstandsmitglieder im Pass-Repository hinzufügen / entfernen
 - [ ] Zugriff auf E-Mail Postfach für neue Vorstandsmitglieder einrichten
 - [ ] Papierunterlagen (Protokolle, Stickers etc.) übergeben (Präsident)
-- [ ] Adresse beim DNS und  beim Domain Anbieter ändern (Präsident)
 - [ ] Konto übergeben (neuer Kassier und Präsident)
   - Benötigt das unterschriebene Protokoll der letzten GV.
 - [ ] Neue Passwörter generieren & Keys updaten
