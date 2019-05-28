@@ -44,9 +44,9 @@ Die Einstufung wird nach geschätzter Zielgruppengrösse und Streuung gemacht.
 
 **Leistungen**:
 - 1 Logo auf open\HSR Flyer (ca. Briefmarkengross)
-- Logo auf der open\HSR Website
-- Logo auf der Startseite des HSR Studentenportals
-- Aufhängen des Logos an open\HSR Events (A4 Format)
+- 1 Logo auf der open\HSR Website
+- 1 Logo auf der Startseite des HSR Studentenportals
+- Aufhängen von 1 Logo an open\HSR Events (A4 Format)
 
 
 ### Sponsor
@@ -59,8 +59,8 @@ Die Einstufung wird nach geschätzter Zielgruppengrösse und Streuung gemacht.
 - Benutzer von Open Source Software und alternativen Betriebssystemen an der HSR (in erster Linie Linux und macOS)
 
 **Leistungen:**
-- Logo auf der open\HSR Website
-- Logo auf der Startseite des HSR Studentenportals
+- 1 Logo auf der open\HSR Website
+- 1 Logo auf der Startseite des HSR Studentenportals
 
 ### Supporter
 
@@ -71,4 +71,4 @@ Die Einstufung wird nach geschätzter Zielgruppengrösse und Streuung gemacht.
 - Benutzer von Open Source Software und alternativen Betriebssystemen an der HSR (in erster Linie Linux und macOS)
 
 **Leistungen**: 
-- Logo auf der open\HSR Website
+- 1 Logo auf der open\HSR Website
