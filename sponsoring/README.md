@@ -25,7 +25,7 @@ In erster Linie werden damit aktuelle Studierende und potentielle Alumni der HSR
 
 
 ## Konditionen
-Sponsoringverträge werden jeweils auf die Dauer eines Jahres mit einem oder mehreren Sponsoren abgeschlossen. Sponsoren sind üblicherweise im Open-Source interessierter Betriebe.
+Sponsoringverträge werden jeweils auf die Dauer eines Jahres mit einem oder mehreren Sponsoren abgeschlossen. Sponsoren sind üblicherweise an Open-Source interessierte Betriebe.
 
 ## Kategorien
 
