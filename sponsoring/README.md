@@ -32,7 +32,7 @@ Sponsoringverträge werden jeweils auf die Dauer eines Jahres mit einem oder meh
 Sponsoren können sich für eine Kategorie entscheiden, welche die Positionierung des Logos an unterschiedlichen Medien und Webseiten abbilden.
 Die Einstufung wird nach geschätzter Zielgruppengrösse und Streuung gemacht.
 
-### Hauptsponsor
+### Hauptsponsoren
 
 **Kosten:** 2000 CHF / Jahr
 
@@ -49,7 +49,7 @@ Die Einstufung wird nach geschätzter Zielgruppengrösse und Streuung gemacht.
 - Aufhängen von 1 Logo an open\HSR-Events (A4-Format)
 
 
-### Sponsor
+### Sponsoren
 
 **Kosten:** 1300 CHF / Jahr
 
