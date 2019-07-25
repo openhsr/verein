@@ -43,7 +43,8 @@ Die Einstufung wird nach geschätzter Zielgruppengrösse und Streuung gemacht.
 - Benutzer von OpenSource-Software und alternativen Betriebssystemen an der HSR (in erster Linie Linux und macOS)
 
 **Leistungen**:
-- 1 Logo auf open\HSR-Flyer (ca. Briefmarkengross)
+- 1 Logo auf open\HSR-Flyer (ca. Briefmarkengross)  
+  Der open\HSR Flyer wird an sämtliche neu eintretenden HSR-Studierende verteilt.
 - 1 Logo auf der open\HSR-Website
 - 1 Logo auf der Startseite des HSR Studentenportals
 - Aufhängen von 1 Logo an open\HSR-Events (A4-Format)
