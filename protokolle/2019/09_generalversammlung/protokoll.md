@@ -55,9 +55,31 @@ Da wenig Ausgaben vorhanden waren, kann dies aus dem Vereinsvermögen gedeckt we
 
 ### Statutenänderungen
 
-**Definierte Vorstandsaufgaben und Vorstandsentschädigung**
+**Definierte Vorstandsaufgaben und Vorstandsentschädigung ([#50](https://github.com/openhsr/verein/pull/50))**
 
-TODO
+Um die Mitarbeit im Vorstand attraktiver zu machen, soll der Vorstand in Zukunft einen Vorstandsanlass unternehmen können.
+Dafür soll er über bis zu 20% der Sponsoringeinnahmen verfügen können, sofern der Vorstand die von der GV aufgetragenen Aufgaben erledigt.
+
+Im gleichen Zug sollen in Zukunft von der GV konkrete, verpflichtende Aufträge (Flyer drucken, abgeben etc.) festgelegt werden.
+
+
+```diff
+diff --git a/statuten/statuten.pdf b/statuten/statuten.pdf
+deleted file mode 100644
+index 3c42228..0000000
+Binary files a/statuten/statuten.pdf and /dev/null differ
+diff --git a/statuten/statuten.tex b/statuten/statuten.tex
+index b7813dd..973edbd 100644
+--- a/statuten/statuten.tex
++++ b/statuten/statuten.tex
+@@ -233,6 +233,8 @@
+   festgelegt.
+   \li Das Vereinsjahr beginnt am 1. Oktober und endet am 30. September.
+   \li Der Verein haftet allein mit dem Vereinsvermögen.
++  \li Der Vorstand darf bis zu 20\% der Einnahmen aus dem laufenden Jahr für einen Vorstandsanlass einsetzen,
++  sofern er die ihm von der Generalversammlung und Statuten aufgetragenen Pflichten nach Treu und Glauben erfüllt.
+ \lo
+```
 
 
 ### Vorstandsänderungen
@@ -71,8 +93,20 @@ Wahl des neuen Vorstands.
 |Kassier        |  |
 
 
-### Sponsoring Studentenportal
+### Auftrag Vorstand
 
+**Grundauftrag:**
+
+- Organisieren GV (Präsident)
+- Buchhaltung und organisieren Sponsoren (Kassier)
+- Regelmässiges leeren des open\HSR Postfachs (Alle, Verantwortung beim Präsident)
+- Bewirtschaften des info@openhsr.ch-Postfach sowie @openhsr Twitter-Accounts (Alle, Verantwortung beim Präsident)
+- Druck Flyer und Abgabe an alle neueintretenden Studierenden (Vizepräsident)
+
+**Erweiterter Auftrag:**
+
+- Organisieren Erneuerung Studentenportal und Verteilung der gesprochenen finanziellen Mittel (Beisitz?)
+- Durchführung eines Linux-Installationsanlasses. (?)
 
 ### Budget (Vereinsjahr 19/20)
 
@@ -106,6 +140,9 @@ Entlastung Vorstand:
 
 ### Varia
 
+**Studentenportal**
+
+**open\HSR / Ost - quo vadis?** Diskussion
 
 
 
