@@ -48,10 +48,10 @@ Da wenig Ausgaben vorhanden waren, kann dies aus dem Vereinsvermögen gedeckt we
 **Vermögen**
 
 |----|---|
-| Vermögen (17/18) | ? CHF |
+| Vermögen (17/18) | 2202.20 CHF |
 | Ausgaben         | -495.20 CHF |
-| | |
-| Vermögen (18/19) | ? CHF |
+|                  |             |
+| Vermögen (18/19) | 1707 CHF    |
 
 ### Statutenänderungen
 
@@ -121,20 +121,20 @@ Wahl des neuen Vorstands.
 | Domain              | -10.70 CHF  |
 | Druck Flyer         | -150 CHF    |
 | Anlässe             | -900 CHF    |
-| Studentenportal     | -1500 CHF   |
+| Studentenportal     | -2000 CHF   |
 | Vorstandsanlass     | -600 CHF    |
 |                     |             |
-| **Summe**           | 251.30 CHF  |
+| **Summe**           | -248.70 CHF |
 
 \* davon 2000.- bisher mündlich zugesagt, die Vertragsunterzeichnung ist noch ausstehend.
 
 **Vermögen**
 
 |----|---|
-| Vermögen (V.J. 18/19) | ? |
-| Einnahmen             | 251.30 CHF |
-| | |
-| Vermögen (V.J 19/20)  | ? |
+| Vermögen (V.J. 18/19) | 1707 CHF    |
+| Ausgaben              | -248.70 CHF |
+|                       |             |
+| Vermögen (V.J 19/20)  | 1458.30 CHF |
 
 Entlastung Vorstand:
 
