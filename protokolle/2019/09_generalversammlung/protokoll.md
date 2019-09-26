@@ -47,11 +47,15 @@ Da wenig Ausgaben vorhanden waren, kann dies aus dem Vereinsvermögen gedeckt we
 
 **Vermögen**
 
-|----|---|
+| Beschreibung     | Betrag      |
+|------------------|-------------|
 | Vermögen (17/18) | 2202.20 CHF |
-| Ausgaben         | -495.20 CHF |
+| Ausgaben (18/19) | -495.20 CHF |
 |                  |             |
 | Vermögen (18/19) | 1707 CHF    |
+
+
+*Entlastung Vorstand:*
 
 ### Statutenänderungen
 
@@ -130,13 +134,12 @@ Wahl des neuen Vorstands.
 
 **Vermögen**
 
-|----|---|
-| Vermögen (V.J. 18/19) | 1707 CHF    |
-| Ausgaben              | -248.70 CHF |
-|                       |             |
-| Vermögen (V.J 19/20)  | 1458.30 CHF |
-
-Entlastung Vorstand:
+| Beschreibung     | Betrag      |
+|------------------|-------------|
+| Vermögen (18/19) | 1707 CHF    |
+| Ausgaben  (19/20)| -248.70 CHF |
+|                  |             |
+| Vermögen (19/20) | 1458.30 CHF |
 
 ### Varia
 
