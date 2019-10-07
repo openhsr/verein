@@ -6,7 +6,7 @@ sender:
     ssl: true
     starttls: false
     user: info@openhsr.ch
-    sender: '"open\HSR Newsletter" <info@openhsr.ch>'
+    sender: '"open\\HSR Newsletter" <info@openhsr.ch>'
 
 source:
     provider: sqlite
