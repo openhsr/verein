@@ -143,6 +143,9 @@ Wahl des neuen Vorstands.
 
 ### Varia
 
+Wir haben zur Zeit 91 Mitglieder!
+
+
 **Studentenportal**
 
 **open\HSR / Ost - quo vadis?** Diskussion
