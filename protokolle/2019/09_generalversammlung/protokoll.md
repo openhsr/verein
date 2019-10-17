@@ -120,7 +120,7 @@ Wahl des neuen Vorstands.
 |---------------------|-------------|
 | **Einnahmen**       |             |
 | Mitgliederbeiträge  | 0 CHF       |
-| Sponsoring          | 3412 CHF \* |
+| Sponsoring          | 3412 CHF    |
 | **Ausgaben**        |             |
 | Domain              | -10.70 CHF  |
 | Druck Flyer         | -150 CHF    |
@@ -130,7 +130,6 @@ Wahl des neuen Vorstands.
 |                     |             |
 | **Summe**           | -248.70 CHF |
 
-\* davon 2000.- bisher mündlich zugesagt, die Vertragsunterzeichnung ist noch ausstehend.
 
 **Vermögen**
 
