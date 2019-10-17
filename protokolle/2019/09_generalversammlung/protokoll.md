@@ -57,6 +57,61 @@ Da wenig Ausgaben vorhanden waren, kann dies aus dem Vereinsvermögen gedeckt we
 
 *Entlastung Vorstand:*
 
+
+### Diskussion: open\HSR / Ost - quo vadis?
+
+Frei nach Issue [verein#49](https://github.com/openhsr/verein/issues/49):
+
+Wie soll es mit dem open\HSR weitergehen?
+
+Bekanntlich wird die HSR 2020 mit der FHSG und NTB zusammengelegt - und erhält damit neu den Namen "Ost".
+
+Wir müssen uns also langsam Gedanken machen, wohin es gehen soll.
+
+Dazu folgende Überlegungen:
+
+**Status Quo**
+
+- Wir haben relativ **grosses Interesse der HSR Studierenden**  
+  (z.Z. 91 Mitglieder und sind damit einer der grösseren HSR Verein!)  
+- Es **fehlt aber an aktiven Mitgliedern**. Es hat in den letzten Jahren nicht gut geklappt, aktive Vorstandsmitglieder zu kriegen.
+- Die **HSR IT ignoriert Linux und macOS** weitgehend.
+- 1 Standort, 1500 Studierende (ca. die Hälfte davon hat mit open\HSR was zu tun.)
+
+**Status Ost**
+
+- 3 Standorte, ca. 1500 Rapperswil, 1700 St. Gallen, 300 Buchs
+  - Aufbau Informatik in St. Gallen! (Ist noch vieles unklar)
+  - Evtl. interessant bestehend: Wirtschaftsinformatik und -ingenieurswesen in St. Gallen
+  - Evtl. interessant bestehend: Systemtechnik in Buchs
+- *Wie läuft es weiter mit der IT und Linux?*
+- VSHSR bleibt gemäss meinen Infos sicher vorübergehend in der aktuellen Form bestehen.
+
+**Zukunft open\HSR**
+
+- Standortübergreifend ja oder nein?
+  - Falls ja, sollte ein Budget für Vorstandstreffen/Reisespesen eingerichtet werden
+  - Falls ja, braucht es eine Statutenanpassung
+- Wie können wir den open\HSR Vorstand attraktiver machen?
+  - Vorstandsausflug/essen?
+- Neuer Vereinsname: open\Ost oder ganz was Anderes?
+- Evtl. den Verein etwas neu ausrichten (z.B. ähnlich wie an der ETH [TheAlternative.ch](https://www.thealternative.ch/)?)
+
+
+### Diskussion: Studentenportal
+
+- VSHSR hat das Studentenportal de facto aufgegeben - aber keine Alternative gefunden.
+- z.T. pro Studiengang Dateiaustausch via z.B. Dropbox.
+- Grössere Wartungsarbeiten nötig - kaum freiwilige Helfer trotz aufruf.
+  - Das interesse der Studierenden ist also offensichtlich nur mässig.
+- Theoretisch drei Möglichkeiten:
+  - Abstellen
+  - Warten bis Server abschmiert
+  - Aktualisieren der Software, Migration auf neuen Server (bereits vorhanden: Sponsoring Nine).
+    - Dafür braucht es Freiwillige und jemand, der das organisiert.
+    - Wir könnten Geld zur Verfügung stellen (in unserem Budgetentwurf mal drin: 2000.-)
+
+
 ### Statutenänderungen
 
 **Definierte Vorstandsaufgaben und Vorstandsentschädigung ([#50](https://github.com/openhsr/verein/pull/50))**
@@ -84,7 +139,6 @@ index b7813dd..973edbd 100644
 +  sofern er die ihm von der Generalversammlung und Statuten aufgetragenen Pflichten nach Treu und Glauben erfüllt.
  \lo
 ```
-
 
 ### Vorstandsänderungen
 
@@ -142,13 +196,9 @@ Wahl des neuen Vorstands.
 
 ### Varia
 
-Wir haben zur Zeit 91 Mitglieder!
+**Linux Install Event**
 
-
-**Studentenportal**
-
-**open\HSR / Ost - quo vadis?** Diskussion
-
+**Umfrage**
 
 
 ## Schliessung der Generalversammlung
