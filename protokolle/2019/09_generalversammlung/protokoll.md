@@ -174,15 +174,15 @@ Wahl des neuen Vorstands.
 |---------------------|-------------|
 | **Einnahmen**       |             |
 | Mitgliederbeiträge  | 0 CHF       |
-| Sponsoring          | 3412 CHF    |
+| Sponsoring          | 5412 CHF    |
 | **Ausgaben**        |             |
 | Domain              | -10.70 CHF  |
-| Druck Flyer         | -150 CHF    |
-| Anlässe             | -900 CHF    |
-| Studentenportal     | -2000 CHF   |
-| Vorstandsanlass     | -600 CHF    |
+| Marketing / Flyer   | -350 CHF    |
+| Anlässe             | -1000 CHF   |
+| Studentenportal     | -3000 CHF   |
+| Vorstandsanlass     | -1050 CHF   |
 |                     |             |
-| **Summe**           | -248.70 CHF |
+| **Summe**           |   1.30 CHF  |
 
 
 **Vermögen**
@@ -190,9 +190,9 @@ Wahl des neuen Vorstands.
 | Beschreibung     | Betrag      |
 |------------------|-------------|
 | Vermögen (18/19) | 1707 CHF    |
-| Ausgaben  (19/20)| -248.70 CHF |
+| Ausgaben (19/20) | 1.30 CHF    |
 |                  |             |
-| Vermögen (19/20) | 1458.30 CHF |
+| Vermögen (19/20) | 1708.30 CHF |
 
 ### Varia
 
