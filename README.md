@@ -26,7 +26,7 @@ Oberseestrasse 10
 ```
 
 ## Flyer
-Flyer können dem Studiengangleiter frühzeitig (!) vor Semesterbeginn abgegeben werden. Die Flyer werden so zusammen mit allen anderen Unterlagen den neuen Studenten abgegeben.
+Flyer können dem Studiengangleiter frühzeitig (!) vor Semesterbeginn am Empfang abgegeben werden. Die Flyer werden so zusammen mit allen anderen Unterlagen den neuen Studenten abgegeben.
 
 ## Social Media
 Da Twitter-Konto [@openhsr](https://twitter.com/openhsr) ist derzeit die einzige Social-Media Präsenz des Vereins. 
@@ -56,8 +56,7 @@ St. Leonhardstrasse 25
 ```
 
 ## Sponsoring
-Die Verträge mit den Sponsoren sind auf ein Jahr befristet und müssen im September erneuert werden.
-Die Sponsoringverträge werden im [Vereinsrepository unter sponsoring abgelegt](https://github.com/openhsr/verein/tree/master/sponsoring).
+Die Verträge mit den Sponsoren sind auf ein Jahr befristet und müssen im September erneuert werden. Die Sponsoringverträge werden entweder im Vereinsordner oder im E-Mail-Postfach abgelegt.
 
 Details zum Sponsoring sind der [Sponsoring-Übersicht](https://github.com/openhsr/verein/tree/master/sponsoring) zu entnehmen.
 
@@ -73,14 +72,8 @@ Momentan ist die Buchhaltung im Vereinsordner abgelegt.
 - GV nach Semesterstart (September/Oktober)
 - Newsletter 1-3x je Semester
 
-- Codesprints (Meist am ende der zwei Wochen Wiederholungsprüfungen)
-- (Wöchentlicher) Treffpunkt bei Interesse
-- GitHub-Workshop bei Interesse
-
 # Hosting
-Die Website sowie die Paketquellen des open\HSR Connect laufen über das Hosting des VSHSR. Alle allfällige Änderungen müssen mit den Verantwortlichen des VSHSR abgesprochen werden.
-
-Die Website und die Paketquellen des open\HSR Connect werden automatisch über Travis-CI deployed.
+Die Website läuft auf GitHub Pages und wird via Travis-CI automatisch deployed.
 
 # Checkliste neue Vorstandsmitglieder
 - [ ] Vorstand auf der Website anpassen
