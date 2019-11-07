@@ -1,4 +1,4 @@
-# Protokoll open\HSR Generalversammlung Vereinsjahr 2019-2020
+# Protokoll open\\HSR Generalversammlung Vereinsjahr 2019-2020
 
 ## Anwesend
 
@@ -37,7 +37,7 @@ Total Stimmenzahl: 20 Stimmen
 |---------------------|-------------|-------------|
 | **Einnahmen**       |             |             |
 | Mitgliederbeiträge  | 0 CHF       | 0 CHF       |
-| Sponsoring          | 2500 CHF    | 0 CHF \*    |
+| Sponsoring          | 2500 CHF    | 0 CHF \\*    |
 | **Ausgaben**        |             |             |
 | Domain              | -10.70 CHF  | -10.70 CHF  |
 | Druck Flyer         | -50 CHF     | -105.40 CHF |
@@ -46,7 +46,7 @@ Total Stimmenzahl: 20 Stimmen
 |                     |             |             |
 | **Summe**           | -60.70 CHF  | -495.20 CHF |
 
-\* Der Vorstand hat in den letzten Vereinsjahren ein Jahr kein Sponsoring erhalten.
+\\* Der Vorstand hat in den letzten Vereinsjahren ein Jahr kein Sponsoring erhalten.
 In den Budgets der letzen Jahre war das Sponsoring vom Vorjahr verbucht.  
 Aus diesem Grund haben wir entschieden, im Vereinsjahr 18/19 eine Korrekturrunde zu drehen.
 Da wenig Ausgaben vorhanden waren, kann dies aus dem Vereinsvermögen gedeckt werden.
@@ -161,7 +161,7 @@ Wahl des neuen Vorstands.
 
 - Organisieren GV (Präsident)
 - Buchhaltung und organisieren Sponsoren (Kassier)
-- Regelmässiges leeren des open\HSR Postfachs (Alle, Verantwortung beim Präsident)
+- Regelmässiges leeren des open\\HSR Postfachs (Alle, Verantwortung beim Präsident)
 - Bewirtschaften des info@openhsr.ch-Postfach sowie @openhsr Twitter-Accounts (Alle, Verantwortung beim Präsident)
 - Druck Flyer und Abgabe an alle neueintretenden Studierenden (Vizepräsident)
 
@@ -172,11 +172,11 @@ Wahl des neuen Vorstands.
 
 ### Varia
 
-#### Diskussion: open\HSR / Ost - quo vadis?
+#### Diskussion: open\\HSR / Ost - quo vadis?
 
 Frei nach Issue [verein#49](https://github.com/openhsr/verein/issues/49):
 
-Wie soll es mit dem open\HSR weitergehen?
+Wie soll es mit dem open\\HSR weitergehen?
 
 Bekanntlich wird die HSR 2020 mit der FHSG und NTB zusammengelegt - und erhält damit neu den Namen "Ost".
 
@@ -189,7 +189,7 @@ Dazu folgende Überlegungen:
     (z.Z. 91 Mitglieder und sind damit einer der grösseren HSR Verein!)  
   - Es **fehlt aber an aktiven Mitgliedern**. Es hat in den letzten Jahren nicht gut geklappt, aktive   Vorstandsmitglieder zu kriegen.
   - Die **HSR IT ignoriert Linux und macOS** weitgehend.
-  - 1 Standort, 1500 Studierende (ca. die Hälfte davon hat mit open\HSR was zu tun.)
+  - 1 Standort, 1500 Studierende (ca. die Hälfte davon hat mit open\\HSR was zu tun.)
 - Status Ost
   - 3 Standorte, ca. 1500 Rapperswil, 1700 St. Gallen, 300 Buchs
     - Aufbau Informatik in St. Gallen! (Ist noch vieles unklar)
@@ -197,13 +197,13 @@ Dazu folgende Überlegungen:
     - Evtl. interessant bestehend: Systemtechnik in Buchs
   - *Wie läuft es weiter mit der IT und Linux?*
   - VSHSR bleibt gemäss meinen Infos sicher vorübergehend in der aktuellen Form bestehen.
-- Zukunft open\HSR
+- Zukunft open\\HSR
   - Standortübergreifend ja oder nein?
     - Falls ja, sollte ein Budget für Vorstandstreffen/Reisespesen eingerichtet werden
     - Falls ja, braucht es eine Statutenanpassung
-  - Wie können wir den open\HSR Vorstand attraktiver machen?
+  - Wie können wir den open\\HSR Vorstand attraktiver machen?
     - Vorstandsausflug/essen?
-  - Neuer Vereinsname: open\Ost oder ganz was Anderes?
+  - Neuer Vereinsname: open\\Ost oder ganz was Anderes?
   - Evtl. den Verein etwas neu ausrichten (z.B. ähnlich wie an der ETH [TheAlternative.ch](https://  www.thealternative.ch/)?)
   - Diskussion ueber Open/HSR Discord/Slack/etc
     * Github als Kommunikationskanal ist nicht schlecht aber nicht das flexibleste Mittel, auch da nicht   alle Git und Github bedienen koennen.
@@ -225,7 +225,7 @@ Dazu folgende Überlegungen:
   * Moegliche Bug/Feature-Bounties fuer das Studentenportal
   * Studentenportal besitzt beliebte Features die nach Moeglichkeit bestehend bleiben
   * Collaboration mit ET zur integration von Github LaTeX Documenten aufs Studentenportal
-  * Studentenportal als Plattform fuer den open\HSR neben der eigenen Website
+  * Studentenportal als Plattform fuer den open\\HSR neben der eigenen Website
   * Maintainermangel ist die Hauptproblematik die das Studentenportal betrifft
   * Collaboration mit Fachschaften EEU,I,ET,MI um deren Loesungen fuer Altpruefungen und Zusammenfassungen zu ersetzen
   * Fixen Maximal Betrag fuer das Studentenportal ~3000CHF fuer alles in allem bestimmt
