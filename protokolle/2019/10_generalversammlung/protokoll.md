@@ -245,7 +245,7 @@ Dazu folgende Überlegungen:
 *Abschluss der GV durch Praesidenten Fabian Hauser.*
 *Anschliessendes gemeinsames Pizzaessen.*
 
-Präsident   | Kassier
-------------|-----------------
-Fabian Hauser | Lukas Volk
-&nbsp; | &nbsp;
+Präsident   | 
+------------|
+Fabian Hauser |
+&nbsp; |
