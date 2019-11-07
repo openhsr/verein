@@ -245,7 +245,8 @@ Dazu folgende Überlegungen:
 *Abschluss der GV durch Praesidenten Fabian Hauser.*
 *Anschliessendes gemeinsames Pizzaessen.*
 
-Präsident   | 
-------------|
-Fabian Hauser |
-&nbsp; |
+|  Präsident    |
+|---------------|
+| Fabian Hauser |
+| &nbsp;        |
+
