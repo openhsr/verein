@@ -22,6 +22,8 @@
 \usepackage{titlesec}
 \titleformat{\section}{\Large\bfseries}{§ \thesection{} -- }{0em}{}
 
+\usepackage[useregional]{datetime2}
+
 % Numbering
 \renewcommand*{\labelenumi}{\thesection.\arabic{enumi}}
 \renewcommand*{\labelenumii}{\labelenumi.\arabic{enumii}}
@@ -31,13 +33,19 @@
 \newcommand{\lo}{\end{enumerate}}
 \newcommand{\li}{\item}
 
+% Vereins Infos
+
+\newcommand*{\verein}{open\textbackslash{}HSR}
+\newcommand*{\president}{Fabian Gehrmann}
+\newcommand*{\kassier}{Hansruedi Patzen}
+\newcommand*{\lastgvupdate}{\DTMdisplaydate{2019}{10}{29}{-1}}
 
 %%% TITLEPAGE %%%
 
 \title{\Huge Vereinsstatuten}
-\subject{open\textbackslash{}HSR}
+\subject{\verein{}}
+\author{}
 \date{Stand: \today}
-
 
 %%% HEADER / FOOTER %%%
 
@@ -52,7 +60,7 @@
 % Fancy headers configuration
 \pagestyle{fancy}
 \fancyhead{} % Clear all header fields
-\fancyhead[LO,L]{\bfseries Vereinsstatuten open\textbackslash{}HSR}
+\fancyhead[LO,L]{\bfseries Vereinsstatuten \verein{}}
 \fancyhead[RO,R]{\bfseries \Date{}}
 \fancyfoot{} % Clear all footer fields
 \fancyfoot[CO,C]{Seite \thepage}
@@ -61,7 +69,6 @@
 
 % Better footer
 \cfoot{Seite \thepage\ von \pageref{LastPage}}
-
 
 %%% MAIN DOCUMENT %%%
 
@@ -75,20 +82,20 @@
 
     \vfill
 
-    \large Beschlossen an der GV vom 25. April 2017.
+    \large Beschlossen an der GV vom \lastgvupdate
 
     \vspace{1.5cm}
 
     \begin{minipage}[t]{0.49\textwidth}
       \center
       \rule{5cm}{0.2mm}\\
-      Matteo Kamm, Präsident
+      \president{}, Präsident
       \endcenter
     \end{minipage}
     \begin{minipage}[t]{0.49\textwidth}
       \center
       \rule{5cm}{0.2mm}\\
-      André Bachmann, Kassierer
+      \kassier{}, Kassierer
       \endcenter
     \end{minipage}
   \end{center}
@@ -98,7 +105,7 @@
 \section{Name und Sitz}
 
 \ol
-  \li Unter dem Namen \textit{open\textbackslash{}HSR} besteht ein Verein gemäss Art. 60ff
+  \li Unter dem Namen \textit{\verein{}} besteht ein Verein gemäss Art. 60ff
   ZGB.
   \li Der Verein ist religiös unabhängig und politisch neutral
   \li Der Sitz des Vereins ist Rapperswil-Jona. Für alle Rechtsstreitigkeiten
@@ -125,7 +132,7 @@
 \section{Mitgliedschaft}
 
 \ol
-  \li Der Verein \textit{open\textbackslash{}HSR} steht allen aktiven oder ehemaligen
+  \li Der Verein \textit{\verein{}} steht allen aktiven oder ehemaligen
   Studenten, Assistenten, Dozenten oder sonstigen Angehörigen der Hochschule für
   Technik in Rapperswil-Jona (HSR) offen.
   \li Aufnahme von Mitgliedern
