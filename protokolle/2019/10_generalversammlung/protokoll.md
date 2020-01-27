@@ -204,7 +204,7 @@ Dazu folgende Überlegungen:
   - Wie können wir den open\\HSR Vorstand attraktiver machen?
     - Vorstandsausflug/essen?
   - Neuer Vereinsname: open\\Ost oder ganz was Anderes?
-  - Evtl. den Verein etwas neu ausrichten (z.B. ähnlich wie an der ETH [TheAlternative.ch](https://  www.thealternative.ch/)?)
+  - Evtl. den Verein etwas neu ausrichten (z.B. ähnlich wie an der ETH [TheAlternative.ch](https://www.thealternative.ch/)?)
   - Diskussion ueber Open/HSR Discord/Slack/etc
     * Github als Kommunikationskanal ist nicht schlecht aber nicht das flexibleste Mittel, auch da nicht   alle Git und Github bedienen koennen.
     * Viele Moegliche Kanaele vorhanden nur deren Nutzung und Effektivitaet gilt es auszuprobieren
