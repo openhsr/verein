@@ -80,8 +80,9 @@ Die Website läuft auf GitHub Pages und wird via Travis-CI automatisch deployed.
 - [ ] Vorstand (@openhsr/vorstand) / Organisations Mitglieder / Admins auf GitHub anpassen
 - [ ] Vorstandsmitglieder im Pass-Repository hinzufügen / entfernen
 - [ ] Zugriff auf E-Mail Postfach für neue Vorstandsmitglieder einrichten
+  - [ ] Aktualisieren Zugriffsberechtigunen auf open@hsr.ch
 - [ ] Papierunterlagen (Protokolle, Stickers etc.) übergeben (Präsident)
-- [ ] Konto übergeben (neuer Kassier und Präsident)
+- [ ] Bankkonto übergeben (neuer Kassier und Präsident)
   - Benötigt das unterschriebene Protokoll der letzten GV.
 - [ ] Neue Passwörter generieren & Keys updaten
 - [ ] Vereinspostfach beim VSHSR im Gebäude 4 zeigen
