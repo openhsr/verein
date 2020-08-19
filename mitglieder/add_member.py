@@ -10,7 +10,7 @@ DB_NAME = 'memberdb.sqlite'
 def add_member():
     first_name = input('First name: ')
     last_name = input('Last name: ')
-    email = '{0}.{1}@hsr.ch'.format(first_name.lower(), last_name.lower())
+    email = '{0}.{1}@ost.ch'.format(first_name.lower(), last_name.lower())
     specific_email = input('E-Mail ({0}): '.format(email))
     if len(specific_email) > 0:
         email = specific_email
