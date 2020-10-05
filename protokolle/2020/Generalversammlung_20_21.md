@@ -19,25 +19,53 @@ Total Stimmenzahl: [N] Stimmen
 **Zeit:** 17:00 Uhr bis [HH:MM] Uhr
 
 ## Traktanden
-### 1 – Wahl Stimmenzähler
+
+### 1 – Organisation
+
+#### 1.1 Contact Tracing
+
+#### 1.2 – Wahl Stimmenzähler und Protokollführer
+
+- [Vorname Name] wurde einstimmig als Stimmenzähler bestimmt
+- [Vorname Name] wurde einstimmig als Protokollführer bestimmt
+
+#### 1.3 – Abnahme Traktandenliste
+
+Traktandenliste wurde einstimmig  angenommen
 
 
-### 2 – Abnahme letztes Protokoll
+### 2 – Abnahme [Protokoll GV 2019-20](https://github.com/openhsr/verein/blob/master/protokolle/2019/10_generalversammlung/protokoll.md) 
 
-Abnahme Traktandenliste durch Plenum: Ja (Konsens)
+GV-Protokoll vom 29.10.19 wird [einstimmig] angenommen.
 
-GV-Protokoll vom XX.XX.20XX wird einstimmig angennommen.
+### 3 – Jahresabschluss (Vereinsjahr 2019/20)
 
-### 3 – Jahresabschluss
+**Einnahmen und Ausgaben**
 
-|-----------------|-------------|
+| Budgetpunkt        | Budget    |
+| ------------------ | --------- |
+| **Einnahmen**      |           |
+| Mitgliederbeiträge | CHF XXX.— |
+| Sponsoring         | CHF XXX.— |
+| **Ausgaben**       |           |
+| Domain             | CHF XXX.— |
+| Marketing / Flyer  | CHF XXX.— |
+| Anlässe            | CHF XXX.— |
+| Studentenportal    | CHF XXX.— |
+| Vorstandsanlass    | CHF XXX.— |
+|                    |           |
+| **Summe**          | CHF XXX.— |
 
-| Budgetpunkt     | Budget 20XX-1 |
-|-----------------|-------------|
-| **Einnahmen**   |             |
-| Mitgliederbeiträge | N CHF    |
-| ** Ausgaben**   |             |
-|-----------------|-------------|
+**Vermögen**
+
+| Beschreibung     | Betrag    |
+| ---------------- | --------- |
+| Vermögen (18/19) | CHF XXX.— |
+| Ausgaben (19/20) | CHF XXX.— |
+|                  |           |
+| Vermögen (19/20) | CHF XXX.— |
+
+Jahresabschluss für das Vereinsjahr 2019/20 wurde einstimmig angenommen
 
 
 ### 4 – Budget 20XX
@@ -45,6 +73,7 @@ GV-Protokoll vom XX.XX.20XX wird einstimmig angennommen.
 Vermögen: N CHF
 
 |-----------------|-------------|
+
 | Budgetpunkt     | Budget 20XX |
 |-----------------|-------------|
 | **Einnahmen**   |             |
@@ -53,20 +82,19 @@ Vermögen: N CHF
 | Domains         | N CHF       |
 |-----------------|-------------|
 
-### 5 -Vorstandänderungen
+### 5 – Jahresrückblick
 
-### 6 – Diskussion: Zukunft / Auflösung Verein 
+### 7 – Vorstandsänderungen
 
-### 7 - Berichte
+### 8 – Diskussion: Zukunft / Auflösung Verein 
 
-#### AG Webseite
+### 9– Abschluss der GV
 
-#### AG Support
+Abschluss der GV durch Präsidenten Fabian Hause
+Anschliessendes gemeinsames Pizzaessen.
 
-#### Vorstand
-
-### [...]
-
-### 8 –Varia
-
+| Präsident      | Kassier          | Vize-Präsident |
+| -------------- | ---------------- | -------------- |
+| Fabian Germann | Hansruedi Patzen | Floris Staub   |
+| &nbsp;         |                  |                |
 
