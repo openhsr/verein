@@ -1,32 +1,37 @@
-# Protokoll alt.comp.hsr Generalversammlung 20XX
+# Protokoll open\HSR Generalversammlung 2020/21
 
 ## Anwesend
 
-- NAME
+#### Vor Ort
 
-Total Stimmenzahl: N Stimmen 
+* [NAME]
+
+#### Online
+
+- [NAME]
+
+Total Stimmenzahl: [N] Stimmen 
 
 ## Ort und Zeit
 
-**Ort:** Hochschule Rapperswil
-**Tag:** DATE
-**Zeit:** HH:MM bis HH:MM
+**Ort:** Ostschweizer Fachhochschule / Raum 1.219/1.221
+**Tag:** 19.10.2020
+**Zeit:** 17:00 Uhr bis [HH:MM] Uhr
 
 ## Traktanden
-### Wahl Stimmenzähler
+### 1 – Wahl Stimmenzähler
 
 
-### Abnahme letztes Protokoll
+### 2 – Abnahme letztes Protokoll
 
 Abnahme Traktandenliste durch Plenum: Ja (Konsens)
 
-### Abnahme letztes Protokoll
-
 GV-Protokoll vom XX.XX.20XX wird einstimmig angennommen.
 
-### Jahresabschluss
+### 3 – Jahresabschluss
 
 |-----------------|-------------|
+
 | Budgetpunkt     | Budget 20XX-1 |
 |-----------------|-------------|
 | **Einnahmen**   |             |
@@ -35,7 +40,7 @@ GV-Protokoll vom XX.XX.20XX wird einstimmig angennommen.
 |-----------------|-------------|
 
 
-### Budget 20XX
+### 4 – Budget 20XX
 
 Vermögen: N CHF
 
@@ -48,7 +53,9 @@ Vermögen: N CHF
 | Domains         | N CHF       |
 |-----------------|-------------|
 
-### Vorstandänderungen
+### 5 -Vorstandänderungen
+
+### 6 – Diskussion: Zukunft / Auflösung Verein 
 
 ### Berichte
 
