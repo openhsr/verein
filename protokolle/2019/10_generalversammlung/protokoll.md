@@ -30,7 +30,6 @@ Total Stimmenzahl: 20 Stimmen
 
 ### Jahresabschluss (Vereinsjahr 18/19)
 
-
 **Einnahmen und Ausgaben**
 
 | Budgetpunkt         | Budget      | Bilanz      |
@@ -139,7 +138,7 @@ Wahl des neuen Vorstands.
 
 | Funktion       |Name|
 |----------------|----|
-| Präsident      | Fabian Gehrmann |
+| Präsident      | Fabian Germann |
 | Vize-Präsident | Floris Staub |
 | Kassier        | Hansruedi Patzen |
 | Beisitz (Studentenportal) | Fabian Hauser |
