@@ -57,7 +57,7 @@ Vermögen: N CHF
 
 ### 6 – Diskussion: Zukunft / Auflösung Verein 
 
-### Berichte
+### 7 - Berichte
 
 #### AG Webseite
 
@@ -67,6 +67,6 @@ Vermögen: N CHF
 
 ### [...]
 
-### Varia
+### 8 –Varia
 
 
