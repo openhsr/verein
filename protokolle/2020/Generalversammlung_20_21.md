@@ -42,45 +42,55 @@ GV-Protokoll vom 29.10.19 wird [einstimmig] angenommen.
 
 **Einnahmen und Ausgaben**
 
-| Budgetpunkt        | Budget    |
-| ------------------ | --------- |
-| **Einnahmen**      |           |
-| Mitgliederbeiträge | CHF XXX.— |
-| Sponsoring         | CHF XXX.— |
-| **Ausgaben**       |           |
-| Domain             | CHF XXX.— |
-| Marketing / Flyer  | CHF XXX.— |
-| Anlässe            | CHF XXX.— |
-| Studentenportal    | CHF XXX.— |
-| Vorstandsanlass    | CHF XXX.— |
-|                    |           |
-| **Summe**          | CHF XXX.— |
+| Budgetpunkt        | Budget         |
+| ------------------ | -------------- |
+| **Einnahmen**      |                |
+| Mitgliederbeiträge | CHF       0.00 |
+| Sponsoring         | CHF   6'742.00 |
+| **Ausgaben**       |                |
+| Bankspesen         | CHF -     5.10 |
+| Domain             | CHF -    10.70 |
+| Marketing / Flyer  | CHF -    55.40 |
+| Anlässe            | CHF -   384.55 |
+| Generalversammlung | CHF -   334.40 |
+| Studentenportal    | CHF - 5'612.50 |
+| Vorstandsanlass    | CHF -   327.50 |
+|                    |                |
+| **Summe**          | CHF      11.85 |
 
 **Vermögen**
 
-| Beschreibung     | Betrag    |
-| ---------------- | --------- |
-| Vermögen (18/19) | CHF XXX.— |
-| Ausgaben (19/20) | CHF XXX.— |
-|                  |           |
-| Vermögen (19/20) | CHF XXX.— |
+| Beschreibung           | Betrag       |
+| ---------------------- | ------------ |
+| Vermögen (18/19)       | CHF 1'707.00 |
+| Gewinn/Verlust (19/20) | CHF    11.85 |
+|                        |              |
+| Vermögen (19/20)       | CHF 1'718.85 |
 
-Jahresabschluss für das Vereinsjahr 2019/20 wurde einstimmig angenommen
+Jahresabschluss für das Vereinsjahr 2019/20 wurde [einstimmig] angenommen
 
 
-### 4 – Budget 20XX
+### 4 – Budget 2020/21
 
-Vermögen: N CHF
+Vermögen: 1'718.85 CHF
 
-|-----------------|-------------|
-
-| Budgetpunkt     | Budget 20XX |
-|-----------------|-------------|
-| **Einnahmen**   |             |
-| Mitgliederbeiträge | N CHF    |
-| ** Ausgaben**   |             |
-| Domains         | N CHF       |
-|-----------------|-------------|
+|--------------------|----------------|
+| Budgetpunkt        | Budget 2020/21 |
+|--------------------|----------------|
+| **Einnahmen**      |                |
+| Mitgliederbeiträge | CHF       0.00 |
+| Sponsoring         | CHF   6'000.00 |
+| ** Ausgaben**      |                |
+| Bankspesen         | CHF -     5.10 |
+| Domains            | CHF -    10.70 |
+| Marketing / Flyer  | CHF -   300.00 |
+| Anlässe            | CHF - 1'500.00 |
+| Generalversammlung | CHF -   400.00 |
+| Studentenportal    | CHF - 2'500.00 |
+| Vorstandsanlass    | CHF - 1'200.00 |
+|--------------------|----------------|
+|                    |                |
+| **Summe**          |   CHF    84.20 |
 
 ### 5 – Jahresrückblick
 
@@ -90,11 +100,12 @@ Vermögen: N CHF
 
 ### 9– Abschluss der GV
 
-Abschluss der GV durch Präsidenten Fabian Hause
+Abschluss der GV durch Präsidenten Fabian Germann.
+
 Anschliessendes gemeinsames Pizzaessen.
 
-| Präsident      | Kassier          | Vize-Präsident |
-| -------------- | ---------------- | -------------- |
-| Fabian Germann | Hansruedi Patzen | Floris Staub   |
-| &nbsp;         |                  |                |
+| Präsident      | Kassier          | Vize-Präsident | Beistand Studentenportal |
+| -------------- | ---------------- | -------------- | ------------------------ |
+| Fabian Germann | Hansruedi Patzen | Floris Staub   | Fabian Hauser            |
+| &nbsp;         |                  |                |                          |
 
