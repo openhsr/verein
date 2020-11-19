@@ -1,6 +1,7 @@
 # Meeting Vorstand OpenHSR
 
 Datum: 19. November 2020
+Anwesend: Floris, Hansruedi, Fabian
 
 ## Teams Channel (Fabian)
 
