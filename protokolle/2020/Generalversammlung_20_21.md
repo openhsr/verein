@@ -8,8 +8,8 @@ Total Stimmenzahl: 16 Stimmen
 
 ## Ort und Zeit
 
-**Ort:** Online(Microsoft Teams)
-**Tag:** 19.10.2020
+**Ort:** Online(Microsoft Teams)\
+**Tag:** 19.10.2020\
 **Zeit:** 17:00 Uhr bis 19.00 Uhr
 
 ## Traktanden
