@@ -66,7 +66,6 @@ Jahresabschluss für das Vereinsjahr 2019/20 wurde einstimmig angenommen
 
 Vermögen: 1'718.85 CHF
 
-|--------------------|----------------|
 | Budgetpunkt        | Budget 2020/21 |
 |--------------------|----------------|
 | **Einnahmen**      |                |
@@ -80,7 +79,6 @@ Vermögen: 1'718.85 CHF
 | Generalversammlung | CHF -   400.00 |
 | Studentenportal    | CHF - 2'500.00 |
 | Vorstandsanlass    | CHF - 1'200.00 |
-|--------------------|----------------|
 |                    |                |
 | **Summe**          |   CHF    84.20 |
 
