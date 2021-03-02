@@ -71,7 +71,7 @@ Vermögen: 1'718.85 CHF
 | **Einnahmen**      |                |
 | Mitgliederbeiträge | CHF       0.00 |
 | Sponsoring         | CHF   6'000.00 |
-| ** Ausgaben**      |                |
+| **Ausgaben**       |                |
 | Bankspesen         | CHF -     5.10 |
 | Domains            | CHF -    10.70 |
 | Marketing / Flyer  | CHF -   300.00 |
