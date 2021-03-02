@@ -28,7 +28,7 @@ Traktandenliste wurde einstimmig  angenommen
 
 ### 2 – Abnahme [Protokoll GV 2019-20](https://github.com/openhsr/verein/blob/master/protokolle/2019/10_generalversammlung/protokoll.md) 
 
-GV-Protokoll vom 29.10.19 wird mit 13 von 14 Ja Stimmen angenommen.
+GV-Protokoll vom 29.10.2019 wird mit 13 von 14 Ja Stimmen angenommen.
 
 ### 3 – Jahresabschluss (Vereinsjahr 2019/20)
 
@@ -52,12 +52,12 @@ GV-Protokoll vom 29.10.19 wird mit 13 von 14 Ja Stimmen angenommen.
 
 **Vermögen**
 
-| Beschreibung           | Betrag       |
-| ---------------------- | ------------ |
-| Vermögen (18/19)       | CHF 1'707.00 |
-| Gewinn/Verlust (19/20) | CHF    11.85 |
-|                        |              |
-| Vermögen (19/20)       | CHF 1'718.85 |
+| Beschreibung             | Betrag       |
+| ------------------------ | ------------ |
+| Vermögen (2018/19)       | CHF 1'707.00 |
+| Gewinn/Verlust (2019/20) | CHF    11.85 |
+|                          |              |
+| Vermögen (2019/20)       | CHF 1'718.85 |
 
 Jahresabschluss für das Vereinsjahr 2019/20 wurde einstimmig angenommen
 
