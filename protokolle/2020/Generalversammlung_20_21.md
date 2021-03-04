@@ -34,7 +34,7 @@ GV-Protokoll vom 29.10.19 wird mit 13 von 14 Ja Stimmen angenommen.
 
 **Einnahmen und Ausgaben**
 
-| Budgetpunkt        | Budget         |
+| Budgetpunkt        | Bilanz         |
 | ------------------ | -------------- |
 | **Einnahmen**      |                |
 | Mitgliederbeiträge | CHF       0.00 |
