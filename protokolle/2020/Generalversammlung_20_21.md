@@ -8,8 +8,8 @@ Total Stimmenzahl: 16 Stimmen
 
 ## Ort und Zeit
 
-**Ort:** Online(Microsoft Teams)
-**Tag:** 19.10.2020
+**Ort:** Online (Microsoft Teams)\
+**Tag:** 19.10.2020\
 **Zeit:** 17:00 Uhr bis 19.00 Uhr
 
 ## Traktanden
@@ -66,13 +66,12 @@ Jahresabschluss für das Vereinsjahr 2019/20 wurde einstimmig angenommen
 
 Vermögen: 1'718.85 CHF
 
-|--------------------|----------------|
 | Budgetpunkt        | Budget 2020/21 |
 |--------------------|----------------|
 | **Einnahmen**      |                |
 | Mitgliederbeiträge | CHF       0.00 |
 | Sponsoring         | CHF   6'000.00 |
-| ** Ausgaben**      |                |
+| **Ausgaben**       |                |
 | Bankspesen         | CHF -     5.10 |
 | Domains            | CHF -    10.70 |
 | Marketing / Flyer  | CHF -   300.00 |
@@ -80,7 +79,6 @@ Vermögen: 1'718.85 CHF
 | Generalversammlung | CHF -   400.00 |
 | Studentenportal    | CHF - 2'500.00 |
 | Vorstandsanlass    | CHF - 1'200.00 |
-|--------------------|----------------|
 |                    |                |
 | **Summe**          |   CHF    84.20 |
 
@@ -189,7 +187,7 @@ Weitere Schritte des Vereinen bezüglich dem Studentenportal
 - Beistand wird offen gelassen und die Aufgaben übernimmt der Vorstand bis zur nächsten ausserordentlichen GV die in einem halben Jahr statt finden soll
 - Neuer Beistand soll in einer baldigen ausserordentlichen GV in der Vorstand aufgenommen werden
 
-### 9– Abschluss der GV
+### 9 – Abschluss der GV
 
 Abschluss der GV durch Präsidenten Fabian Germann.
 
