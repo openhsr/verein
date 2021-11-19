@@ -26,27 +26,52 @@ GV-Protokoll vom XX.XX.20XX wird einstimmig angennommen.
 
 ### Jahresabschluss
 
-|-----------------|-------------|
-| Budgetpunkt     | Budget 20XX-1 |
-|-----------------|-------------|
-| **Einnahmen**   |             |
-| Mitgliederbeiträge | N CHF    |
-| ** Ausgaben**   |             |
-|-----------------|-------------|
+| Budgetpunkt            | Bilanz         |
+| ---------------------- | -------------- |
+| **Einnahmen**          |                |
+| Mitgliederbeiträge     | CHF       0.00 |
+| Sponsoring             | CHF   6'000.00 |
+| Gewinn/Verlust (19/20) | CHF      11.85 |
+| Rückstellungen (19/20) | CHF   2'500.00 |
+| **Ausgaben**           |                |
+| Bankspesen             | CHF -    22.50 |
+| Domain                 | CHF -    21.40 |
+| Marketing / Flyer      | CHF -     0.00 |
+| Anlässe                | CHF -     0.00 |
+| Generalversammlung     | CHF -     0.00 |
+| Studentenportal        | CHF - 4'812.50 |
+| Vorstandsanlass        | CHF -   369.80 |
+|                        |                |
+| **Summe**              | CHF   3'285.65 |
 
+**Vermögen**
 
-### Budget 20XX
+| Beschreibung           | Betrag         |
+| ---------------------- | -------------- |
+| Eigenkapital           | CHF   1'707.00 |
+| Gewinn/Verlust (20/21) | CHF   3'285.65 |
+|                        |                |
+| Vermögen (20/21)       | CHF   4'992.65 |
 
-Vermögen: N CHF
+### Budget 2021/22
 
-|-----------------|-------------|
-| Budgetpunkt     | Budget 20XX |
-|-----------------|-------------|
-| **Einnahmen**   |             |
-| Mitgliederbeiträge | N CHF    |
-| ** Ausgaben**   |             |
-| Domains         | N CHF       |
-|-----------------|-------------|
+Vermögen: 4'992.65 CHF
+
+| Budgetpunkt            | Budget 2021/22 |
+| ---------------------- | -------------- |
+| **Einnahmen**          |                |
+| Mitgliederbeiträge     | CHF       0.00 |
+| Sponsoring             | CHF       0.00 |
+| **Ausgaben**           |                |
+| Bankspesen             | CHF -    30.00 |
+| Domains                | CHF -    21.40 |
+| Marketing / Flyer      | CHF -     0.00 |
+| Anlässe                | CHF -     0.00 |
+| Generalversammlung     | CHF -   400.00 |
+| Studentenportal        | CHF -     0.00 |
+| Vorstandsanlass        | CHF -     0.00 |
+|                        |                |
+| **Summe**              | CHF -   451.40 |
 
 ### Vorstandänderungen
 
