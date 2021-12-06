@@ -1,20 +1,17 @@
 # Protokoll open\OST Generalversammlung 2021/22
-
 ## Anwesend
-
-- NAME
-
-Total Stimmenzahl: N Stimmen 
+Total Stimmenzahl: 11 Stimmen 
 
 ## Ort und Zeit
 
-**Ort:** Hochschule Rapperswil, MS Teams (Online)
-**Datum:** 06.12.2021
+**Ort:** Hochschule Rapperswil, MS Teams (Online)\
+**Datum:** 06.12.2021\
 **Zeit:**  17:00
 
 ## Traktanden
 ### Wahl Stimmenzähler
 
+Simon Kindhauser wird einstimmig angenommen.
 
 ### Abnahme Traktandenliste
 
@@ -22,7 +19,7 @@ Abnahme Traktandenliste durch Plenum: Ja (Konsens)
 
 ### Abnahme letztes Protokoll
 
-GV-Protokoll vom XX.XX.20XX wird einstimmig angennommen.
+GV-Protokoll vom 04.03.2021 wird einstimmig angennommen.
 
 ### Jahresabschluss
 
@@ -73,11 +70,51 @@ Vermögen: 4'992.65 CHF
 |                        |                |
 | **Summe**              | CHF -   451.40 |
 
+Anmerkung des Kassier: Das Budget sollte wahrscheindlich angepasst werden. Damit mehr für kommende anlässe ausgegeben werden kann. Der vorstand der an dieser Generalversammlung bestimmt wird soll das Budget neu definieren.
+
+**Abnahme der Jahresrechnung?**
+
+Abnahme der Jahresrechnung durch Plenum: Ja (Konsens)
+
 ### Vorstandänderungen
 
-### Berichte
+Wie an der letzten ausserordentlichen Generalversammlung angekündigt wird der gesamte Vorstand auf ende des Vereinsjahres zurücktreten.
 
-#### Vorstand
+Simon Kindhauser hat sich im vorhinein gemeldet für das Präsidium.
+
+Im letzten Vereinsjahr gab es ein Studentenportal Beisitz. 
+Florian währe daran interessiert Technisch an dem Studentanportal weiter zu arbeiten. Will sich jedoch nicht für den Beisitz melden.
+
+Zur wahl stehen:
+- Präsidium: Simon Kindhauser
+- Vize-Präsidium: Caspar Martens
+- Kassier: Claudio Digion
+
+Kann der komplette Vorstand mit einer Wahl gewechselt werden? **Angenommen mit 8 Ja Stimmen.**
+
+**Soll (Simon Kindhauser als Präsident, Caspar Martens als  Vize-Präsident und Claudio Digion als Kassier) gewählt werden?**
+- Wurde mit dem absoluten Mehr angenommen.
+
+Die Ziel des neuen Vorstandes sind, es sollen mehr Veranstaltungen organisiert werden. Zusätzlich soll das Studentenportal mehr in den Fokus rücken und es soll ein Hackathon für das Studentenportal organisiert werden. 
+
+### Jahresrückblick
+Organisierte Events:
+- Zwei Python workshops wurden online durchgeführt
+- LaTex Workshop wurde vor Ort durchgeführt und brach den Teilnehmer rekord für einen Event des Vereines mit 60 Anmeldungen.
+    - Aufgrund der vielen Anmeldungen ist dies ein Workshop der sicher wieder durchgeführt werden kann
+    - Eventuell erweitern wie Python Workshop mit erstellund eigener Templates usw. sofern das Wissen vorhanden ist
+    - Möglich wäre eine Teams Gruppe zu gründen um sich gegenseitig weiter zu helfen
 
 ### Varia
+Das Protokoll der letzten Generalversammlung soll vor der Generalversammlung versendet werden. Nach möglichkeit gerade mit der Einladung zur Generalversammlung.
 
+#### Studentenportal
+Es wird noch die studentenportal Domain zum open\OST übertragen durch Fabian Germann.
+Zurzeit gibt es keinen verantwortlichen für das Studentenportal und dadurch ist das Projekt eingeschlafen
+
+#### Rebranding
+Es wurde bereits ein Soft rebranding begonnen es müssen noch weitere Schritte getan werden.
+- Github
+- Website
+- Statuten (Logo)
+- usw.
