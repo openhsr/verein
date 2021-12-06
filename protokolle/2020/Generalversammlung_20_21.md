@@ -34,21 +34,21 @@ GV-Protokoll vom 29.10.2019 wird mit 13 von 14 Ja Stimmen angenommen.
 
 **Einnahmen und Ausgaben**
 
-| Budgetpunkt        | Budget         |
-| ------------------ | -------------- |
-| **Einnahmen**      |                |
-| Mitgliederbeiträge | CHF       0.00 |
-| Sponsoring         | CHF   6'742.00 |
-| **Ausgaben**       |                |
-| Bankspesen         | CHF -     5.10 |
-| Domain             | CHF -    10.70 |
-| Marketing / Flyer  | CHF -    55.40 |
-| Anlässe            | CHF -   384.55 |
-| Generalversammlung | CHF -   334.40 |
-| Studentenportal    | CHF - 5'612.50 |
-| Vorstandsanlass    | CHF -   327.50 |
-|                    |                |
-| **Summe**          | CHF      11.85 |
+| Budgetpunkt            | Bilanz         |
+| ---------------------- | -------------- |
+| **Einnahmen**          |                |
+| Mitgliederbeiträge     | CHF       0.00 |
+| Sponsoring             | CHF   6'742.00 |
+| **Ausgaben**           |                |
+| Bankspesen             | CHF -     5.10 |
+| Domain                 | CHF -    10.70 |
+| Marketing / Flyer      | CHF -    55.40 |
+| Anlässe                | CHF -   384.55 |
+| Generalversammlung     | CHF -   334.40 |
+| Studentenportal        | CHF - 5'612.50 |
+| Vorstandsanlass        | CHF -   327.50 |
+|                        |                |
+| **Summe**              | CHF      11.85 |
 
 **Vermögen**
 
@@ -66,23 +66,21 @@ Jahresabschluss für das Vereinsjahr 2019/20 wurde einstimmig angenommen
 
 Vermögen: 1'718.85 CHF
 
-|--------------------|----------------|
-| Budgetpunkt        | Budget 2020/21 |
-|--------------------|----------------|
-| **Einnahmen**      |                |
-| Mitgliederbeiträge | CHF       0.00 |
-| Sponsoring         | CHF   6'000.00 |
-| ** Ausgaben**      |                |
-| Bankspesen         | CHF -     5.10 |
-| Domains            | CHF -    10.70 |
-| Marketing / Flyer  | CHF -   300.00 |
-| Anlässe            | CHF - 1'500.00 |
-| Generalversammlung | CHF -   400.00 |
-| Studentenportal    | CHF - 2'500.00 |
-| Vorstandsanlass    | CHF - 1'200.00 |
-|--------------------|----------------|
-|                    |                |
-| **Summe**          |   CHF    84.20 |
+| Budgetpunkt            | Budget 2020/21 |
+| ---------------------- | -------------- |
+| **Einnahmen**          |                |
+| Mitgliederbeiträge     | CHF       0.00 |
+| Sponsoring             | CHF   6'000.00 |
+| **Ausgaben**           |                |
+| Bankspesen             | CHF -     5.10 |
+| Domains                | CHF -    10.70 |
+| Marketing / Flyer      | CHF -   300.00 |
+| Anlässe                | CHF - 1'500.00 |
+| Generalversammlung     | CHF -   400.00 |
+| Studentenportal        | CHF - 2'500.00 |
+| Vorstandsanlass        | CHF - 1'200.00 |
+|                        |                |
+| **Summe**              |   CHF    84.20 |
 
 Das Budget wurde wurde mit 14 Ja Stimmen angenommen 2 Enthaltungen
 
