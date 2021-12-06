@@ -8,7 +8,7 @@ Total Stimmenzahl: N Stimmen
 
 ## Ort und Zeit
 
-**Ort:** Hochschule Rapperswil, Raum 1.221
+**Ort:** Hochschule Rapperswil, MS Teams (Online)
 **Datum:** 06.12.2021
 **Zeit:**  17:00
 
@@ -16,7 +16,7 @@ Total Stimmenzahl: N Stimmen
 ### Wahl Stimmenzähler
 
 
-### Abnahme letztes Protokoll
+### Abnahme Traktandenliste
 
 Abnahme Traktandenliste durch Plenum: Ja (Konsens)
 
@@ -77,13 +77,7 @@ Vermögen: 4'992.65 CHF
 
 ### Berichte
 
-#### AG Webseite
-
-#### AG Support
-
 #### Vorstand
-
-### [...]
 
 ### Varia
 
