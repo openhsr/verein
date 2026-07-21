@@ -48,7 +48,7 @@
     ))[
     Georgiy Shevoroshkin\ Präsident
   ][
-    Jasmin Fässler\ Stellvertretung
+    Jasmin Fässler\ Vize-Präsidentin
   ][
     Filippo Andretta\ Kassierer
   ]

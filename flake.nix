@@ -17,7 +17,13 @@
           f (
             import nixpkgs {
               inherit system;
-              config = { };
+              config = {
+                allowUnfreePredicate =
+                  pkg:
+                  builtins.elem (nixpkgs.lib.getName pkg) [
+                    "banana-accounting"
+                  ];
+              };
               overlays = [ ];
             }
           )
@@ -30,6 +36,7 @@
           packages = with pkgs; [
             typst
             typstyle
+            banana-accounting
           ];
         };
       });
