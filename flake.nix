@@ -34,6 +34,9 @@
         default = pkgs.mkShell {
           TYPST_FONT_PATHS = "${pkgs.lib.escapeShellArg pkgs.ubuntu-sans}";
           packages = with pkgs; [
+            (writeShellScriptBin "sqlite-wrapped" ''
+              ${lib.getExe rlwrap} ${lib.getExe sqlite} "$@"
+            '')
             typst
             typstyle
             banana-accounting
