@@ -1,8 +1,5 @@
+#set text(lang: "de", region: "ch")
 #let openost = text(font: "Ubuntu Sans", fill: rgb("#191919"))[open\\OST]
-
-#let today = "26. Juni 2026"
-// datetime.today().display("[day]. [month repr:long] [year]")
-
 #set heading(numbering: "1")
 #show heading: it => [
   § #counter(heading).display() -- #it.body
@@ -22,6 +19,8 @@
   date: datetime.today(),
   title: [Vereinsstatuten #openost],
 )
+#let today = datetime.today().display("[day].[month].[year]")
+#let last-change = "28. Juli 2026"
 
 #page[
   #set align(center)
@@ -40,7 +39,7 @@
 
   #v(1fr)
 
-  Beschlossen an der GV vom 29. Oktober 2019
+  Beschlossen an der GV vom #last-change
 
   #v(4em)
   #grid(columns: (1fr, 1fr, 1fr), gutter: 4em, inset: .5em, stroke: (
@@ -73,38 +72,41 @@
 = Vereinszweck
 
 + Der Verein hat folgende Ziele:
-  + Förderung der Open Source-Kultur und von Open Source-Projekten an der HSR
-  + Interessensvertretung an der HSR für die Unterstützung alternativer
+  + Förderung der Open Source-Kultur und von Open Source-Projekten an der OST
+  + Interessensvertretung an der OST für die Unterstützung alternativer
     Betriebssysteme
   + Unterstützung von Einsteigern in der Nutzung von Open Source-Software im
-    Hinblick auf das Studium an der HSR
-+ Der Verein unterstützt die Ziele und Ideale des VSHSR.
+    Hinblick auf das Studium an der OST
++ Der Verein unterstützt die Ziele und Ideale des VS-OST.
 
 = Mitgliedschaft
 
 + Der Verein #openost steht allen aktiven oder ehemaligen Studenten,
-  Assistenten, Dozenten oder sonstigen Angehörigen der Hochschule für Technik in
-  Rapperswil-Jona (HSR) offen.
+  Assistenten, Dozenten oder sonstigen Angehörigen der Ostschweizer
+  Fachhochschule (OST) offen.
 + Aufnahme von Mitgliedern
   + Natürliche Personen erlangen die Mitgliedschaft durch Mitteilung an ein
-    Vorstandsmitglied und Bezahlung des Mitgliederbeitrages.
+    Vorstandsmitglied.
   + Juristische Personen stellen einen schriftlichen Antrag an den Vorstand,
     welcher über die Aufnahme entscheidet.
-  + Stimm- und wahlberechtigt sind nur diejenigen Mitglieder, welche den
-    Mitgliederbeitrag für das laufende Vereinsjahr bezahlt haben.
+  + Stimm- und wahlberechtigt sind nur diejenigen Mitglieder, die sich im
+    laufenden Vereinsjahr als mitwirkende in einer Arbeitsgruppe mitbeteiligt 
+    haben und in die Liste der Stimm- und wahlberechtigten eingetragen wurden.
 + Austritt von Mitgliedern
-  + Ein Austritt ist jederzeit möglich. Für das aktuelle Vereinsjahr bezahlte
-    Mitgliederbeiträge werden nicht erstattet.
+  + Ein Austritt ist jederzeit möglich. 
   + Der Austritt hat nach einer der folgenden Möglichkeiten zu geschehen:
     + Schriftlich an den Vorstand (per Brief oder E-Mail).
     + Mündlich an einer beschlussfähigen Vorstandssitzung oder einer
       Vereinsversammlung.
-  + Wird nach Studienabschluss der Vereinsbeitrag während eines vollen
-    Vereinsjahres nicht bezahlt, erlischt die Mitgliedschaft automatisch.
+  + Wird nach Studienabschluss während eines vollen Vereinsjahres nicht an 
+    einer Arbeitsgruppe mitgewirkt, erlischt die Mitgliedschaft automatisch, 
+    es sei denn, es wurde vorab mit dem Vorstand anders vereinbart (ggf. 
+    mündlich).
   + Vom Verein ausgeschlossene oder ausgetretene Mitglieder haben keinen
     Anspruch auf Rückerstattungen jeglicher Art.
-  + Beim Austritt aus der HSR erlischt die Mitgliedschaft für Mitglieder ohne
-    Vorstandsfunktion automatisch.
+  + Beim Austritt aus der OST erlischt die Mitgliedschaft für Mitglieder ohne
+    Vorstandsfunktion automatisch, es sei denn, es wurde vorab mit dem Vorstand 
+    anders vereinbart (ggf. mündlich).
 + Ausschluss von Mitgliedern
   + Mitglieder des Vereins können ausgeschlossen werden, wenn sie dem Zweck des
     Vereins zuwiederhandeln, seinen Ruf oder denjenigen eines Vereinsmitglieds
@@ -160,8 +162,6 @@
 
 + Der Verein arbeitet nicht auf einen finanziellen Gewinn hin.
 + Der Mitgliederbeitrag wird jährlich erhoben.
-+ Die Höhe des Mitgliederbeitrags wird jährlich von der Vereinsversammlung
-  festgelegt.
 + Das Vereinsjahr beginnt am 1. Oktober und endet am 30. September.
 + Der Verein haftet allein mit dem Vereinsvermögen.
 + Der Vorstand darf bis zu 20\% der Einnahmen aus dem laufenden Jahr für einen
@@ -175,7 +175,7 @@
 + Eine allfällige Auflösung muss innerhalb der üblichen Frist für Traktanden
   angekündigt werden.
 + Sollte bei der Auflösung ein Vermögensüberschuss bestehen, geht dieser an den
-  Verein der Studierenden der HSR (VSHSR) über.
+  Verein der Studierenden der OST (VS-OST) über.
 
 = Übergangs- und Vollzugsbestimmungen
 
