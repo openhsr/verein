@@ -39,7 +39,7 @@
             '')
             typst
             typstyle
-            banana-accounting
+            # banana-accounting
           ];
           shellHook = ''
             unset SOURCE_DATE_EPOCH
