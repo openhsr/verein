@@ -1,5 +1,25 @@
 {
   "nodes": {
+    "nele": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1789220682,
+        "narHash": "sha256-FWnpiPr10IhQxSA2QzOXNvVR6yQGSOZYy9q2kSoEluU=",
+        "owner": "omega-800",
+        "repo": "nele",
+        "rev": "54e7243773e24b5b3ee655ce57546588ef0c935d",
+        "type": "github"
+      },
+      "original": {
+        "owner": "omega-800",
+        "repo": "nele",
+        "type": "github"
+      }
+    },
     "nixpkgs": {
       "locked": {
         "lastModified": 1788922888,
@@ -18,6 +38,7 @@
     },
     "root": {
       "inputs": {
+        "nele": "nele",
         "nixpkgs": "nixpkgs"
       }
     }
