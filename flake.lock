@@ -7,15 +7,15 @@
         ]
       },
       "locked": {
-        "lastModified": 1789220682,
-        "narHash": "sha256-FWnpiPr10IhQxSA2QzOXNvVR6yQGSOZYy9q2kSoEluU=",
-        "owner": "omega-800",
+        "lastModified": 1789298082,
+        "narHash": "sha256-nKRS007QLcOFAQHTH3Uek/9ebmwkMEZomVliVu3IIhk=",
+        "owner": "raphiz",
         "repo": "nele",
-        "rev": "54e7243773e24b5b3ee655ce57546588ef0c935d",
+        "rev": "8317758a3b4b5305911d273db99e041ed03f3c73",
         "type": "github"
       },
       "original": {
-        "owner": "omega-800",
+        "owner": "raphiz",
         "repo": "nele",
         "type": "github"
       }

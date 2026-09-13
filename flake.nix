@@ -4,7 +4,7 @@
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
     nele = {
-      url = "github:omega-800/nele";
+      url = "github:raphiz/nele";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };
