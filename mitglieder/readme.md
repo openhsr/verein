@@ -24,6 +24,6 @@ gpg2 --symmetric memberdb.sqlite
 ```sql
 -- Neues Mitglied hinzufügen
 INSERT INTO members (first_name,last_name,email,gender,github,active)
-  VALUES ("Vorname", "Nachname", "die@mail", "m/w", "GITHUBUSER", 1);
+  VALUES ("Vorname", "Nachname", "die@mail", "m/w/n", "GITHUBUSER", 1);
 ```
 

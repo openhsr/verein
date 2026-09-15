@@ -14,13 +14,14 @@ def add_member():
     specific_email = input('E-Mail ({0}): '.format(email))
     if len(specific_email) > 0:
         email = specific_email
-    gender = input('Gender (m/w): ')
+    gender = input('Gender (m/w/n): ')
     github = input('Github User (optional): ')
     github = github or None
 
     conn = sqlite3.connect(DB_NAME)
     conn.row_factory = sqlite3.Row
     c = conn.cursor()
+    # TODO: since
     c.execute('''INSERT INTO members (first_name, last_name, email, gender, github, active)
               VALUES (?, ?, ?, ?, ?, ?);''', (first_name, last_name, email,
                                               gender, github, 1))
