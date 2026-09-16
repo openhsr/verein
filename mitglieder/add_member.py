@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import datetime
 import subprocess
 import os
 import sqlite3
@@ -17,14 +18,19 @@ def add_member():
     gender = input('Gender (m/w/n): ')
     github = input('Github User (optional): ')
     github = github or None
+    newsletter = input('Newsletter (Y/n): ')
+    newsletter = 1 if (newsletter or "y").lower() == 'y' else 0
+    today = datetime.date.today()
 
     conn = sqlite3.connect(DB_NAME)
     conn.row_factory = sqlite3.Row
     c = conn.cursor()
+
     # TODO: since
-    c.execute('''INSERT INTO members (first_name, last_name, email, gender, github, active)
-              VALUES (?, ?, ?, ?, ?, ?);''', (first_name, last_name, email,
-                                              gender, github, 1))
+    c.execute('''INSERT INTO members (first_name, last_name, email, gender, github, active, since, newsletter)
+              VALUES (?, ?, ?, ?, ?, ?, ?, ?);''', (first_name, last_name, email,
+                                              gender, github, 1,
+                                              today.strftime("%Y-%m-%d"), newsletter))
     c.execute("SELECT * FROM members WHERE ID = (SELECT MAX(ID)  FROM members);")
     row = c.fetchone()
 
